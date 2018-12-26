@@ -2,8 +2,8 @@ import pandas as pd
 import re
 from tf.transformations import euler_from_quaternion, quaternion_from_euler
 
-filename = 'waypoint.csv'
-outfile = 'waypoint_ang.csv'
+filename = 'waypoint.txt'
+outfile = 'waypoint.csv'
 
 f = open(outfile, 'w')
 
