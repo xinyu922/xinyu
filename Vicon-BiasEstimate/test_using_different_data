@@ -1,0 +1,15 @@
+/media/sid/WDR/Dataset/Tango_rawdata/2018-05-06/22-02-48-euroc/2018-05-06-22-02-45-vicon.txt /media/sid/WDR/Dataset/Tango_rawdata/2018-05-06/22-02-48-euroc/imu0/data.csv /media/sid/WDR/Dataset/Tango_rawdata/2018-05-06/22-02-48-euroc/timeOffset.txt
+
+/media/sid/WDR/Dataset/Tango_rawdata/2018-04-12/15-14-03-euroc/vicon-12-15-14-03.txt /media/sid/WDR/Dataset/Tango_rawdata/2018-04-12/15-14-03-euroc/imu0/data.csv /media/sid/WDR/Dataset/Tango_rawdata/2018-04-12/15-14-03-euroc/timeOffset.txt
+
+/media/sid/Workspace/Dataset/Euroc/V1_01_easy/mav0/vicon0/data.csv /media/sid/Workspace/Dataset/Euroc/V1_01_easy/mav0/imu0/data.csv
+
+/media/sid/Workspace/Dataset/Euroc/V1_02_medium/mav0/vicon0/data.csv /media/sid/Workspace/Dataset/Euroc/V1_02_medium/mav0/imu0/data.csv
+
+/media/sid/Workspace/Dataset/Euroc/V1_03_difficult/mav0/vicon0/data.csv /media/sid/Workspace/Dataset/Euroc/V1_03_difficult/mav0/imu0/data.csv
+
+/media/sid/Workspace/Dataset/Euroc/V2_01_easy/mav0/vicon0/data.csv /media/sid/Workspace/Dataset/Euroc/V2_01_easy/mav0/imu0/data.csv
+
+/media/sid/Workspace/Dataset/Euroc/V2_02_medium/mav0/vicon0/data.csv /media/sid/Workspace/Dataset/Euroc/V2_02_medium/mav0/imu0/data.csv
+
+/media/sid/Workspace/Dataset/Euroc/V2_03_difficult/mav0/vicon0/data.csv /media/sid/Workspace/Dataset/Euroc/V2_03_difficult/mav0/imu0/data.csv
