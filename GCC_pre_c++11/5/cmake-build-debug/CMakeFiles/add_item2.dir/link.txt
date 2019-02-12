@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/add_item2.dir/add_item2.cc.o  -o add_item2 

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dzsb078/Pictures/GCC_pre_c++11/5/Sales_item.h
+iostream
+-
+string
+-
+
+/home/dzsb078/Pictures/GCC_pre_c++11/5/add_item2.cc
+stdexcept
+-
+iostream
+-
+Sales_item.h
+/home/dzsb078/Pictures/GCC_pre_c++11/5/Sales_item.h
+
