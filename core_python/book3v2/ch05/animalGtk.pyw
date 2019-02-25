@@ -5,6 +5,7 @@ pygtk.require('2.0')
 import gtk
 import pango
 
+
 class GTKapp(object):
     def __init__(self):
         top = gtk.Window(gtk.WINDOW_TOPLEVEL)
@@ -47,6 +48,7 @@ class GTKapp(object):
         box.pack_start(qb)
         top.add(box)
         top.show_all()
+
 
 if __name__ == '__main__':
     animal = GTKapp()

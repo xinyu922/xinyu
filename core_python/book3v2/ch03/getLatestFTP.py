@@ -11,7 +11,7 @@ FILE = 'bugzilla-LATEST.tar.gz'
 def main():
     try:
         f = ftplib.FTP(HOST)
-    except (socket.error, socket.gaierror), e:
+    except (socket.error, socket.gaierror) as e:
         print 'ERROR: cannot reach "%s"' % HOST
         return
     print '*** Connected to host "%s"' % HOST
