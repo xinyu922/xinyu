@@ -1,0 +1,11033 @@
+header: 
+  seq: 0
+  stamp: 
+    secs: 1545187662
+    nsecs: 252881461
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187652
+      nsecs: 452168941
+    id: "/follow_waypoints-1-1545187652.452"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 1
+  stamp: 
+    secs: 1545187662
+    nsecs: 476784784
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187662
+      nsecs: 276053905
+    id: "/follow_waypoints-2-1545187662.276"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 2
+  stamp: 
+    secs: 1545187662
+    nsecs: 679178064
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187662
+      nsecs: 478729963
+    id: "/follow_waypoints-3-1545187662.479"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 3
+  stamp: 
+    secs: 1545187662
+    nsecs: 881912349
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187662
+      nsecs: 681360960
+    id: "/follow_waypoints-4-1545187662.681"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 4
+  stamp: 
+    secs: 1545187663
+    nsecs:  86380462
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187662
+      nsecs: 885853052
+    id: "/follow_waypoints-5-1545187662.886"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 5
+  stamp: 
+    secs: 1545187663
+    nsecs: 289015799
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187663
+      nsecs:  88526964
+    id: "/follow_waypoints-6-1545187663.089"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 6
+  stamp: 
+    secs: 1545187722
+    nsecs: 690950933
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187663
+      nsecs: 290322065
+    id: "/follow_waypoints-7-1545187663.290"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 7
+  stamp: 
+    secs: 1545187726
+    nsecs: 523338966
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187722
+      nsecs: 722680091
+    id: "/follow_waypoints-8-1545187722.723"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 8
+  stamp: 
+    secs: 1545187730
+    nsecs: 335073065
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187726
+      nsecs: 534538030
+    id: "/follow_waypoints-9-1545187726.535"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 9
+  stamp: 
+    secs: 1545187831
+    nsecs: 743354255
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187730
+      nsecs: 342901945
+    id: "/follow_waypoints-10-1545187730.343"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 10
+  stamp: 
+    secs: 1545187835
+    nsecs: 358709362
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187831
+      nsecs: 757838010
+    id: "/follow_waypoints-11-1545187831.758"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 11
+  stamp: 
+    secs: 1545187837
+    nsecs: 365208410
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187835
+      nsecs: 364820003
+    id: "/follow_waypoints-12-1545187835.365"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 12
+  stamp: 
+    secs: 1545187839
+    nsecs: 169815828
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187837
+      nsecs: 369396924
+    id: "/follow_waypoints-13-1545187837.369"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 13
+  stamp: 
+    secs: 1545187840
+    nsecs: 976541523
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187839
+      nsecs: 175915956
+    id: "/follow_waypoints-14-1545187839.176"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 14
+  stamp: 
+    secs: 1545187842
+    nsecs: 983570082
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187840
+      nsecs: 983114004
+    id: "/follow_waypoints-15-1545187840.983"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 15
+  stamp: 
+    secs: 1545187844
+    nsecs: 790479559
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187842
+      nsecs: 989906072
+    id: "/follow_waypoints-16-1545187842.990"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 16
+  stamp: 
+    secs: 1545187846
+    nsecs: 794563367
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187844
+      nsecs: 794089078
+    id: "/follow_waypoints-17-1545187844.794"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 17
+  stamp: 
+    secs: 1545187848
+    nsecs: 599989682
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187846
+      nsecs: 799418926
+    id: "/follow_waypoints-18-1545187846.799"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 18
+  stamp: 
+    secs: 1545187850
+    nsecs: 404359463
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187848
+      nsecs: 603615045
+    id: "/follow_waypoints-19-1545187848.604"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 19
+  stamp: 
+    secs: 1545187864
+    nsecs: 408112227
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187850
+      nsecs: 407691001
+    id: "/follow_waypoints-20-1545187850.408"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 20
+  stamp: 
+    secs: 1545187864
+    nsecs: 636925018
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187864
+      nsecs: 436415910
+    id: "/follow_waypoints-21-1545187864.436"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 21
+  stamp: 
+    secs: 1545187864
+    nsecs: 838852269
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187864
+      nsecs: 638264894
+    id: "/follow_waypoints-22-1545187864.638"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 22
+  stamp: 
+    secs: 1545187865
+    nsecs:  41412058
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187864
+      nsecs: 840904951
+    id: "/follow_waypoints-23-1545187864.841"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 23
+  stamp: 
+    secs: 1545187865
+    nsecs: 243063623
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187865
+      nsecs:  42659044
+    id: "/follow_waypoints-24-1545187865.043"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 24
+  stamp: 
+    secs: 1545187882
+    nsecs: 644924602
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187865
+      nsecs: 244503974
+    id: "/follow_waypoints-25-1545187865.245"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 25
+  stamp: 
+    secs: 1545187882
+    nsecs: 880558164
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187882
+      nsecs: 679987907
+    id: "/follow_waypoints-26-1545187882.680"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 26
+  stamp: 
+    secs: 1545187883
+    nsecs:  84780170
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187882
+      nsecs: 882458925
+    id: "/follow_waypoints-27-1545187882.882"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 27
+  stamp: 
+    secs: 1545187883
+    nsecs: 289240068
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187883
+      nsecs:  87094068
+    id: "/follow_waypoints-28-1545187883.087"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 28
+  stamp: 
+    secs: 1545187883
+    nsecs: 492659189
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187883
+      nsecs: 292115926
+    id: "/follow_waypoints-29-1545187883.292"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 29
+  stamp: 
+    secs: 1545187883
+    nsecs: 695583135
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187883
+      nsecs: 494802951
+    id: "/follow_waypoints-30-1545187883.495"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 30
+  stamp: 
+    secs: 1545187883
+    nsecs: 898073789
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187883
+      nsecs: 697290897
+    id: "/follow_waypoints-31-1545187883.697"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 31
+  stamp: 
+    secs: 1545187884
+    nsecs: 100582993
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187883
+      nsecs: 900024890
+    id: "/follow_waypoints-32-1545187883.900"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 32
+  stamp: 
+    secs: 1545187884
+    nsecs: 302935391
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187884
+      nsecs: 102446079
+    id: "/follow_waypoints-33-1545187884.102"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 33
+  stamp: 
+    secs: 1545187896
+    nsecs: 504925086
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187884
+      nsecs: 304444074
+    id: "/follow_waypoints-34-1545187884.304"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 34
+  stamp: 
+    secs: 1545187896
+    nsecs: 733562603
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187896
+      nsecs: 529346942
+    id: "/follow_waypoints-35-1545187896.529"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 35
+  stamp: 
+    secs: 1545187896
+    nsecs: 938841924
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187896
+      nsecs: 737976074
+    id: "/follow_waypoints-36-1545187896.738"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 36
+  stamp: 
+    secs: 1545187897
+    nsecs: 141188576
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187896
+      nsecs: 940655946
+    id: "/follow_waypoints-37-1545187896.941"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 37
+  stamp: 
+    secs: 1545187897
+    nsecs: 342968309
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187897
+      nsecs: 142441987
+    id: "/follow_waypoints-38-1545187897.142"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 38
+  stamp: 
+    secs: 1545187897
+    nsecs: 548265594
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187897
+      nsecs: 345077991
+    id: "/follow_waypoints-39-1545187897.345"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 39
+  stamp: 
+    secs: 1545187897
+    nsecs: 750133063
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187897
+      nsecs: 549654006
+    id: "/follow_waypoints-40-1545187897.550"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 40
+  stamp: 
+    secs: 1545187897
+    nsecs: 953049427
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187897
+      nsecs: 752603054
+    id: "/follow_waypoints-41-1545187897.753"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 41
+  stamp: 
+    secs: 1545187898
+    nsecs: 155320462
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187897
+      nsecs: 954747915
+    id: "/follow_waypoints-42-1545187897.955"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 42
+  stamp: 
+    secs: 1545187898
+    nsecs: 358199081
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187898
+      nsecs: 157390117
+    id: "/follow_waypoints-43-1545187898.157"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 43
+  stamp: 
+    secs: 1545187898
+    nsecs: 561147045
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187898
+      nsecs: 360115051
+    id: "/follow_waypoints-44-1545187898.360"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 44
+  stamp: 
+    secs: 1545187898
+    nsecs: 763728157
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187898
+      nsecs: 562586069
+    id: "/follow_waypoints-45-1545187898.563"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 45
+  stamp: 
+    secs: 1545187898
+    nsecs: 965824838
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187898
+      nsecs: 765111923
+    id: "/follow_waypoints-46-1545187898.765"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 46
+  stamp: 
+    secs: 1545187899
+    nsecs: 168666164
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187898
+      nsecs: 967570066
+    id: "/follow_waypoints-47-1545187898.968"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 47
+  stamp: 
+    secs: 1545187899
+    nsecs: 371310271
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187899
+      nsecs: 170722961
+    id: "/follow_waypoints-48-1545187899.171"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 48
+  stamp: 
+    secs: 1545187899
+    nsecs: 574819108
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187899
+      nsecs: 373435974
+    id: "/follow_waypoints-49-1545187899.373"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 49
+  stamp: 
+    secs: 1545187899
+    nsecs: 778892508
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187899
+      nsecs: 578037023
+    id: "/follow_waypoints-50-1545187899.578"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 50
+  stamp: 
+    secs: 1545187899
+    nsecs: 981245523
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187899
+      nsecs: 780476093
+    id: "/follow_waypoints-51-1545187899.780"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 51
+  stamp: 
+    secs: 1545187900
+    nsecs: 183448072
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187899
+      nsecs: 982942104
+    id: "/follow_waypoints-52-1545187899.983"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 52
+  stamp: 
+    secs: 1545187900
+    nsecs: 388464404
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187900
+      nsecs: 185103893
+    id: "/follow_waypoints-53-1545187900.185"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 53
+  stamp: 
+    secs: 1545187900
+    nsecs: 594993433
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187900
+      nsecs: 394167900
+    id: "/follow_waypoints-54-1545187900.394"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 54
+  stamp: 
+    secs: 1545187900
+    nsecs: 798031752
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187900
+      nsecs: 596580028
+    id: "/follow_waypoints-55-1545187900.597"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 55
+  stamp: 
+    secs: 1545187900
+    nsecs: 999998591
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187900
+      nsecs: 799504995
+    id: "/follow_waypoints-56-1545187900.800"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 56
+  stamp: 
+    secs: 1545187901
+    nsecs: 202183277
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187901
+      nsecs:   1471042
+    id: "/follow_waypoints-57-1545187901.001"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 57
+  stamp: 
+    secs: 1545187901
+    nsecs: 404415166
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187901
+      nsecs: 203985929
+    id: "/follow_waypoints-58-1545187901.204"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 58
+  stamp: 
+    secs: 1545187901
+    nsecs: 606793564
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187901
+      nsecs: 406323909
+    id: "/follow_waypoints-59-1545187901.406"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 59
+  stamp: 
+    secs: 1545187901
+    nsecs: 809563770
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187901
+      nsecs: 608989000
+    id: "/follow_waypoints-60-1545187901.609"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 60
+  stamp: 
+    secs: 1545187902
+    nsecs:  11653476
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187901
+      nsecs: 811224937
+    id: "/follow_waypoints-61-1545187901.811"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 61
+  stamp: 
+    secs: 1545187902
+    nsecs: 213502565
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187902
+      nsecs:  13015985
+    id: "/follow_waypoints-62-1545187902.013"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 62
+  stamp: 
+    secs: 1545187902
+    nsecs: 416016714
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187902
+      nsecs: 215464115
+    id: "/follow_waypoints-63-1545187902.215"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 63
+  stamp: 
+    secs: 1545187902
+    nsecs: 619147148
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187902
+      nsecs: 417787075
+    id: "/follow_waypoints-64-1545187902.418"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 64
+  stamp: 
+    secs: 1545187902
+    nsecs: 821479363
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187902
+      nsecs: 620531082
+    id: "/follow_waypoints-65-1545187902.621"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 65
+  stamp: 
+    secs: 1545187903
+    nsecs:  23766524
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187902
+      nsecs: 823302984
+    id: "/follow_waypoints-66-1545187902.823"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 66
+  stamp: 
+    secs: 1545187903
+    nsecs: 227638001
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187903
+      nsecs:  25933027
+    id: "/follow_waypoints-67-1545187903.026"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 67
+  stamp: 
+    secs: 1545187903
+    nsecs: 430833951
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187903
+      nsecs: 230310916
+    id: "/follow_waypoints-68-1545187903.230"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 68
+  stamp: 
+    secs: 1545187903
+    nsecs: 633035400
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187903
+      nsecs: 432580947
+    id: "/follow_waypoints-69-1545187903.433"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 69
+  stamp: 
+    secs: 1545187920
+    nsecs:  34943995
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187903
+      nsecs: 634459972
+    id: "/follow_waypoints-70-1545187903.634"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 70
+  stamp: 
+    secs: 1545187920
+    nsecs: 269584180
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187920
+      nsecs:  62072038
+    id: "/follow_waypoints-71-1545187920.062"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 71
+  stamp: 
+    secs: 1545187920
+    nsecs: 473585125
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187920
+      nsecs: 270793914
+    id: "/follow_waypoints-72-1545187920.271"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 72
+  stamp: 
+    secs: 1545187920
+    nsecs: 675945706
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187920
+      nsecs: 475224018
+    id: "/follow_waypoints-73-1545187920.475"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 73
+  stamp: 
+    secs: 1545187920
+    nsecs: 878072269
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187920
+      nsecs: 677535057
+    id: "/follow_waypoints-74-1545187920.678"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 74
+  stamp: 
+    secs: 1545187921
+    nsecs:  80023265
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187920
+      nsecs: 879471063
+    id: "/follow_waypoints-75-1545187920.879"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 75
+  stamp: 
+    secs: 1545187921
+    nsecs: 282312656
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187921
+      nsecs:  81752061
+    id: "/follow_waypoints-76-1545187921.082"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 76
+  stamp: 
+    secs: 1545187921
+    nsecs: 484731828
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187921
+      nsecs: 284245014
+    id: "/follow_waypoints-77-1545187921.284"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 77
+  stamp: 
+    secs: 1545187921
+    nsecs: 686884137
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187921
+      nsecs: 486447095
+    id: "/follow_waypoints-78-1545187921.486"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 78
+  stamp: 
+    secs: 1545187921
+    nsecs: 889795709
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187921
+      nsecs: 689188003
+    id: "/follow_waypoints-79-1545187921.689"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 79
+  stamp: 
+    secs: 1545187922
+    nsecs:  94309273
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187921
+      nsecs: 893841981
+    id: "/follow_waypoints-80-1545187921.894"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 80
+  stamp: 
+    secs: 1545187922
+    nsecs: 296017535
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187922
+      nsecs:  95583915
+    id: "/follow_waypoints-81-1545187922.096"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 81
+  stamp: 
+    secs: 1545187922
+    nsecs: 499982477
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187922
+      nsecs: 297291040
+    id: "/follow_waypoints-82-1545187922.297"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 82
+  stamp: 
+    secs: 1545187922
+    nsecs: 702470918
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187922
+      nsecs: 501965999
+    id: "/follow_waypoints-83-1545187922.502"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 83
+  stamp: 
+    secs: 1545187922
+    nsecs: 905701289
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187922
+      nsecs: 705333948
+    id: "/follow_waypoints-84-1545187922.705"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 84
+  stamp: 
+    secs: 1545187923
+    nsecs: 107429975
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187922
+      nsecs: 907001972
+    id: "/follow_waypoints-85-1545187922.907"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 85
+  stamp: 
+    secs: 1545187923
+    nsecs: 309578835
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187923
+      nsecs: 109098911
+    id: "/follow_waypoints-86-1545187923.109"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 86
+  stamp: 
+    secs: 1545187963
+    nsecs: 511988784
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187923
+      nsecs: 311511993
+    id: "/follow_waypoints-87-1545187923.312"
+  status: 4
+  text: "Failed to find a valid plan. Even after executing recovery behaviors."
+result: 
+
+---
+header: 
+  seq: 87
+  stamp: 
+    secs: 1545187983
+    nsecs: 113638928
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187963
+      nsecs: 513145923
+    id: "/follow_waypoints-88-1545187963.513"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 88
+  stamp: 
+    secs: 1545187990
+    nsecs: 322703015
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187983
+      nsecs: 122256040
+    id: "/follow_waypoints-89-1545187983.122"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 89
+  stamp: 
+    secs: 1545188059
+    nsecs: 937360575
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545187990
+      nsecs: 336827039
+    id: "/follow_waypoints-90-1545187990.337"
+  status: 4
+  text: "Failed to find a valid control. Even after executing recovery behaviors."
+result: 
+
+---
+header: 
+  seq: 90
+  stamp: 
+    secs: 1545188243
+    nsecs: 943463482
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188059
+      nsecs: 941329002
+    id: "/follow_waypoints-91-1545188059.941"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 91
+  stamp: 
+    secs: 1545188244
+    nsecs: 157168383
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188243
+      nsecs: 956528902
+    id: "/follow_waypoints-92-1545188243.957"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 92
+  stamp: 
+    secs: 1545188244
+    nsecs: 362996543
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188244
+      nsecs: 162436008
+    id: "/follow_waypoints-93-1545188244.162"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 93
+  stamp: 
+    secs: 1545188244
+    nsecs: 565219838
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188244
+      nsecs: 364785909
+    id: "/follow_waypoints-94-1545188244.365"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 94
+  stamp: 
+    secs: 1545188244
+    nsecs: 768189306
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188244
+      nsecs: 567140102
+    id: "/follow_waypoints-95-1545188244.567"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 95
+  stamp: 
+    secs: 1545188244
+    nsecs: 976165494
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188244
+      nsecs: 775717020
+    id: "/follow_waypoints-96-1545188244.776"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 96
+  stamp: 
+    secs: 1545188245
+    nsecs: 178857096
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188244
+      nsecs: 978389978
+    id: "/follow_waypoints-97-1545188244.978"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 97
+  stamp: 
+    secs: 1545188245
+    nsecs: 385510218
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188245
+      nsecs: 180798053
+    id: "/follow_waypoints-98-1545188245.181"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 98
+  stamp: 
+    secs: 1545188245
+    nsecs: 590101965
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188245
+      nsecs: 389396905
+    id: "/follow_waypoints-99-1545188245.389"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 99
+  stamp: 
+    secs: 1545188245
+    nsecs: 796985586
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188245
+      nsecs: 591660022
+    id: "/follow_waypoints-100-1545188245.592"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 100
+  stamp: 
+    secs: 1545188246
+    nsecs:    718947
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188245
+      nsecs: 800257921
+    id: "/follow_waypoints-101-1545188245.800"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 101
+  stamp: 
+    secs: 1545188246
+    nsecs: 203546640
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188246
+      nsecs:   3042936
+    id: "/follow_waypoints-102-1545188246.003"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 102
+  stamp: 
+    secs: 1545188246
+    nsecs: 405454531
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188246
+      nsecs: 205002069
+    id: "/follow_waypoints-103-1545188246.205"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 103
+  stamp: 
+    secs: 1545188246
+    nsecs: 609028449
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188246
+      nsecs: 407499074
+    id: "/follow_waypoints-104-1545188246.407"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 104
+  stamp: 
+    secs: 1545188246
+    nsecs: 810924985
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188246
+      nsecs: 610354900
+    id: "/follow_waypoints-105-1545188246.610"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 105
+  stamp: 
+    secs: 1545188247
+    nsecs:  13571448
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188246
+      nsecs: 813142061
+    id: "/follow_waypoints-106-1545188246.813"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 106
+  stamp: 
+    secs: 1545188247
+    nsecs: 216165567
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188247
+      nsecs:  15511989
+    id: "/follow_waypoints-107-1545188247.016"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 107
+  stamp: 
+    secs: 1545188247
+    nsecs: 418916107
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188247
+      nsecs: 217897891
+    id: "/follow_waypoints-108-1545188247.218"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 108
+  stamp: 
+    secs: 1545188247
+    nsecs: 621551662
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188247
+      nsecs: 420515060
+    id: "/follow_waypoints-109-1545188247.421"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 109
+  stamp: 
+    secs: 1545188247
+    nsecs: 824088424
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188247
+      nsecs: 623481988
+    id: "/follow_waypoints-110-1545188247.623"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 110
+  stamp: 
+    secs: 1545188248
+    nsecs:  26499867
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188247
+      nsecs: 825937032
+    id: "/follow_waypoints-111-1545188247.826"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 111
+  stamp: 
+    secs: 1545188248
+    nsecs: 228681006
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188248
+      nsecs:  28167009
+    id: "/follow_waypoints-112-1545188248.028"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 112
+  stamp: 
+    secs: 1545188248
+    nsecs: 430890840
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188248
+      nsecs: 230504989
+    id: "/follow_waypoints-113-1545188248.231"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 113
+  stamp: 
+    secs: 1545188248
+    nsecs: 633496832
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188248
+      nsecs: 432096958
+    id: "/follow_waypoints-114-1545188248.432"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 114
+  stamp: 
+    secs: 1545188248
+    nsecs: 835770047
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188248
+      nsecs: 634907960
+    id: "/follow_waypoints-115-1545188248.635"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 115
+  stamp: 
+    secs: 1545188249
+    nsecs:  38293159
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188248
+      nsecs: 837629079
+    id: "/follow_waypoints-116-1545188248.838"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 116
+  stamp: 
+    secs: 1545188249
+    nsecs: 240445035
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188249
+      nsecs:  40025949
+    id: "/follow_waypoints-117-1545188249.040"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 117
+  stamp: 
+    secs: 1545188290
+    nsecs: 443218602
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188249
+      nsecs: 242578983
+    id: "/follow_waypoints-118-1545188249.243"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 118
+  stamp: 
+    secs: 1545188290
+    nsecs: 651015498
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188290
+      nsecs: 450361967
+    id: "/follow_waypoints-119-1545188290.450"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 119
+  stamp: 
+    secs: 1545188290
+    nsecs: 853484916
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188290
+      nsecs: 653001070
+    id: "/follow_waypoints-120-1545188290.653"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 120
+  stamp: 
+    secs: 1545188291
+    nsecs:  56137760
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188290
+      nsecs: 855669021
+    id: "/follow_waypoints-121-1545188290.856"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 121
+  stamp: 
+    secs: 1545188291
+    nsecs: 259266524
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188291
+      nsecs:  58691978
+    id: "/follow_waypoints-122-1545188291.059"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 122
+  stamp: 
+    secs: 1545188291
+    nsecs: 460961276
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188291
+      nsecs: 260499000
+    id: "/follow_waypoints-123-1545188291.260"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 123
+  stamp: 
+    secs: 1545188291
+    nsecs: 663400846
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188291
+      nsecs: 462920904
+    id: "/follow_waypoints-124-1545188291.463"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 124
+  stamp: 
+    secs: 1545188291
+    nsecs: 865970633
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188291
+      nsecs: 665460109
+    id: "/follow_waypoints-125-1545188291.665"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 125
+  stamp: 
+    secs: 1545188292
+    nsecs:  68780296
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188291
+      nsecs: 868204116
+    id: "/follow_waypoints-126-1545188291.868"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 126
+  stamp: 
+    secs: 1545188292
+    nsecs: 270650597
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188292
+      nsecs:  70050001
+    id: "/follow_waypoints-127-1545188292.070"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 127
+  stamp: 
+    secs: 1545188292
+    nsecs: 473030343
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188292
+      nsecs: 272434949
+    id: "/follow_waypoints-128-1545188292.272"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 128
+  stamp: 
+    secs: 1545188292
+    nsecs: 677590737
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188292
+      nsecs: 477051019
+    id: "/follow_waypoints-129-1545188292.477"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 129
+  stamp: 
+    secs: 1545188292
+    nsecs: 880076416
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188292
+      nsecs: 679536104
+    id: "/follow_waypoints-130-1545188292.680"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 130
+  stamp: 
+    secs: 1545188293
+    nsecs:  82551226
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188292
+      nsecs: 882061004
+    id: "/follow_waypoints-131-1545188292.882"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 131
+  stamp: 
+    secs: 1545188293
+    nsecs: 284762758
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188293
+      nsecs:  83946943
+    id: "/follow_waypoints-132-1545188293.084"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 132
+  stamp: 
+    secs: 1545188293
+    nsecs: 486841420
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188293
+      nsecs: 286319971
+    id: "/follow_waypoints-133-1545188293.286"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 133
+  stamp: 
+    secs: 1545188302
+    nsecs: 889707230
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188293
+      nsecs: 489247083
+    id: "/follow_waypoints-134-1545188293.489"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 134
+  stamp: 
+    secs: 1545188303
+    nsecs: 122544994
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188302
+      nsecs: 909977912
+    id: "/follow_waypoints-135-1545188302.910"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 135
+  stamp: 
+    secs: 1545188303
+    nsecs: 326982669
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188303
+      nsecs: 126588106
+    id: "/follow_waypoints-136-1545188303.127"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 136
+  stamp: 
+    secs: 1545188303
+    nsecs: 533162754
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188303
+      nsecs: 329463005
+    id: "/follow_waypoints-137-1545188303.329"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 137
+  stamp: 
+    secs: 1545188303
+    nsecs: 738784620
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188303
+      nsecs: 538172006
+    id: "/follow_waypoints-138-1545188303.538"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 138
+  stamp: 
+    secs: 1545188303
+    nsecs: 941247067
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188303
+      nsecs: 740724086
+    id: "/follow_waypoints-139-1545188303.741"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 139
+  stamp: 
+    secs: 1545188329
+    nsecs: 343961011
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188303
+      nsecs: 943339109
+    id: "/follow_waypoints-140-1545188303.943"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 140
+  stamp: 
+    secs: 1545188331
+    nsecs: 568841626
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188329
+      nsecs: 367542028
+    id: "/follow_waypoints-141-1545188329.368"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 141
+  stamp: 
+    secs: 1545188333
+    nsecs: 772752697
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188331
+      nsecs: 572319030
+    id: "/follow_waypoints-142-1545188331.572"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 142
+  stamp: 
+    secs: 1545188335
+    nsecs: 979000354
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188333
+      nsecs: 778445005
+    id: "/follow_waypoints-143-1545188333.778"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 143
+  stamp: 
+    secs: 1545188338
+    nsecs: 185567662
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188335
+      nsecs: 985030889
+    id: "/follow_waypoints-144-1545188335.985"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 144
+  stamp: 
+    secs: 1545188340
+    nsecs: 391235726
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188338
+      nsecs: 190745115
+    id: "/follow_waypoints-145-1545188338.191"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 145
+  stamp: 
+    secs: 1545188342
+    nsecs: 596118070
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188340
+      nsecs: 395603895
+    id: "/follow_waypoints-146-1545188340.396"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 146
+  stamp: 
+    secs: 1545188344
+    nsecs: 807046759
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188342
+      nsecs: 606556892
+    id: "/follow_waypoints-147-1545188342.607"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 147
+  stamp: 
+    secs: 1545188347
+    nsecs:  13331389
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188344
+      nsecs: 812746047
+    id: "/follow_waypoints-148-1545188344.813"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 148
+  stamp: 
+    secs: 1545188349
+    nsecs: 218575369
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188347
+      nsecs:  17554998
+    id: "/follow_waypoints-149-1545188347.018"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 149
+  stamp: 
+    secs: 1545188351
+    nsecs: 423146459
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188349
+      nsecs: 222609043
+    id: "/follow_waypoints-150-1545188349.223"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 150
+  stamp: 
+    secs: 1545188353
+    nsecs: 629714635
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188351
+      nsecs: 427810907
+    id: "/follow_waypoints-151-1545188351.428"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 151
+  stamp: 
+    secs: 1545188432
+    nsecs: 640931837
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188353
+      nsecs: 640240907
+    id: "/follow_waypoints-152-1545188353.640"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 152
+  stamp: 
+    secs: 1545188446
+    nsecs: 470491748
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188432
+      nsecs: 670026063
+    id: "/follow_waypoints-153-1545188432.670"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 153
+  stamp: 
+    secs: 1545188446
+    nsecs: 708908999
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188446
+      nsecs: 498406887
+    id: "/follow_waypoints-154-1545188446.498"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 154
+  stamp: 
+    secs: 1545188446
+    nsecs: 915643574
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188446
+      nsecs: 715158939
+    id: "/follow_waypoints-155-1545188446.715"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 155
+  stamp: 
+    secs: 1545188447
+    nsecs: 118969377
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188446
+      nsecs: 917543888
+    id: "/follow_waypoints-156-1545188446.918"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 156
+  stamp: 
+    secs: 1545188447
+    nsecs: 320544825
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188447
+      nsecs: 120105028
+    id: "/follow_waypoints-157-1545188447.120"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 157
+  stamp: 
+    secs: 1545188457
+    nsecs: 523049792
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188447
+      nsecs: 322505950
+    id: "/follow_waypoints-158-1545188447.323"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 158
+  stamp: 
+    secs: 1545188457
+    nsecs: 741554558
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188457
+      nsecs: 540018081
+    id: "/follow_waypoints-159-1545188457.540"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 159
+  stamp: 
+    secs: 1545188457
+    nsecs: 943084454
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188457
+      nsecs: 742670059
+    id: "/follow_waypoints-160-1545188457.743"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 160
+  stamp: 
+    secs: 1545188458
+    nsecs: 144651940
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188457
+      nsecs: 944225072
+    id: "/follow_waypoints-161-1545188457.944"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 161
+  stamp: 
+    secs: 1545188458
+    nsecs: 347249565
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188458
+      nsecs: 146627902
+    id: "/follow_waypoints-162-1545188458.147"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 162
+  stamp: 
+    secs: 1545188458
+    nsecs: 549458423
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188458
+      nsecs: 349021911
+    id: "/follow_waypoints-163-1545188458.349"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 163
+  stamp: 
+    secs: 1545188458
+    nsecs: 751678773
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188458
+      nsecs: 551276922
+    id: "/follow_waypoints-164-1545188458.551"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 164
+  stamp: 
+    secs: 1545188458
+    nsecs: 953453115
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188458
+      nsecs: 752906084
+    id: "/follow_waypoints-165-1545188458.753"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 165
+  stamp: 
+    secs: 1545188459
+    nsecs: 155606810
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188458
+      nsecs: 955214023
+    id: "/follow_waypoints-166-1545188458.955"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 166
+  stamp: 
+    secs: 1545188472
+    nsecs: 957537327
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188459
+      nsecs: 157077074
+    id: "/follow_waypoints-167-1545188459.157"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 167
+  stamp: 
+    secs: 1545188473
+    nsecs: 185864784
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188472
+      nsecs: 985423088
+    id: "/follow_waypoints-168-1545188472.985"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 168
+  stamp: 
+    secs: 1545188473
+    nsecs: 387543923
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188473
+      nsecs: 187062978
+    id: "/follow_waypoints-169-1545188473.187"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 169
+  stamp: 
+    secs: 1545188473
+    nsecs: 589904530
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188473
+      nsecs: 389406919
+    id: "/follow_waypoints-170-1545188473.389"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 170
+  stamp: 
+    secs: 1545188473
+    nsecs: 792453565
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188473
+      nsecs: 591937065
+    id: "/follow_waypoints-171-1545188473.592"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 171
+  stamp: 
+    secs: 1545188473
+    nsecs: 998619588
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188473
+      nsecs: 794399023
+    id: "/follow_waypoints-172-1545188473.794"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 172
+  stamp: 
+    secs: 1545188474
+    nsecs: 203593772
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188474
+      nsecs:   3034114
+    id: "/follow_waypoints-173-1545188474.003"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 173
+  stamp: 
+    secs: 1545188474
+    nsecs: 405851904
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188474
+      nsecs: 205431938
+    id: "/follow_waypoints-174-1545188474.205"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 174
+  stamp: 
+    secs: 1545188474
+    nsecs: 608534788
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188474
+      nsecs: 407198905
+    id: "/follow_waypoints-175-1545188474.407"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 175
+  stamp: 
+    secs: 1545188474
+    nsecs: 810613338
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188474
+      nsecs: 610121965
+    id: "/follow_waypoints-176-1545188474.610"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 176
+  stamp: 
+    secs: 1545188475
+    nsecs:  13156045
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188474
+      nsecs: 812618017
+    id: "/follow_waypoints-177-1545188474.813"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 177
+  stamp: 
+    secs: 1545188475
+    nsecs: 215538122
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188475
+      nsecs:  15105009
+    id: "/follow_waypoints-178-1545188475.015"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 178
+  stamp: 
+    secs: 1545188475
+    nsecs: 417141730
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188475
+      nsecs: 216727018
+    id: "/follow_waypoints-179-1545188475.217"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 179
+  stamp: 
+    secs: 1545188475
+    nsecs: 619808476
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188475
+      nsecs: 419296979
+    id: "/follow_waypoints-180-1545188475.419"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 180
+  stamp: 
+    secs: 1545188475
+    nsecs: 822090121
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188475
+      nsecs: 621608018
+    id: "/follow_waypoints-181-1545188475.622"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 181
+  stamp: 
+    secs: 1545188476
+    nsecs:  24389545
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188475
+      nsecs: 823962926
+    id: "/follow_waypoints-182-1545188475.824"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 182
+  stamp: 
+    secs: 1545188476
+    nsecs: 228642074
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188476
+      nsecs:  26803016
+    id: "/follow_waypoints-183-1545188476.027"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 183
+  stamp: 
+    secs: 1545188476
+    nsecs: 430751394
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188476
+      nsecs: 230345010
+    id: "/follow_waypoints-184-1545188476.230"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 184
+  stamp: 
+    secs: 1545188476
+    nsecs: 632856340
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188476
+      nsecs: 432274103
+    id: "/follow_waypoints-185-1545188476.432"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 185
+  stamp: 
+    secs: 1545188476
+    nsecs: 837347359
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188476
+      nsecs: 636931896
+    id: "/follow_waypoints-186-1545188476.637"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 186
+  stamp: 
+    secs: 1545188477
+    nsecs:  39517103
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188476
+      nsecs: 838967084
+    id: "/follow_waypoints-187-1545188476.839"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 187
+  stamp: 
+    secs: 1545188477
+    nsecs: 241995968
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188477
+      nsecs:  41539907
+    id: "/follow_waypoints-188-1545188477.042"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 188
+  stamp: 
+    secs: 1545188477
+    nsecs: 444339336
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188477
+      nsecs: 243473052
+    id: "/follow_waypoints-189-1545188477.243"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 189
+  stamp: 
+    secs: 1545188477
+    nsecs: 647089990
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188477
+      nsecs: 446177959
+    id: "/follow_waypoints-190-1545188477.446"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 190
+  stamp: 
+    secs: 1545188477
+    nsecs: 852167125
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188477
+      nsecs: 649135112
+    id: "/follow_waypoints-191-1545188477.649"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 191
+  stamp: 
+    secs: 1545188478
+    nsecs:  58365892
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188477
+      nsecs: 857832908
+    id: "/follow_waypoints-192-1545188477.858"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 192
+  stamp: 
+    secs: 1545188478
+    nsecs: 260571315
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188478
+      nsecs:  60153007
+    id: "/follow_waypoints-193-1545188478.060"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 193
+  stamp: 
+    secs: 1545188478
+    nsecs: 462890879
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188478
+      nsecs: 262243032
+    id: "/follow_waypoints-194-1545188478.262"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 194
+  stamp: 
+    secs: 1545188478
+    nsecs: 665042139
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188478
+      nsecs: 464567899
+    id: "/follow_waypoints-195-1545188478.465"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 195
+  stamp: 
+    secs: 1545188478
+    nsecs: 867344492
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188478
+      nsecs: 666840076
+    id: "/follow_waypoints-196-1545188478.667"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 196
+  stamp: 
+    secs: 1545188479
+    nsecs:  69779058
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188478
+      nsecs: 869239091
+    id: "/follow_waypoints-197-1545188478.869"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 197
+  stamp: 
+    secs: 1545188479
+    nsecs: 272593360
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188479
+      nsecs:  71832895
+    id: "/follow_waypoints-198-1545188479.072"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 198
+  stamp: 
+    secs: 1545188479
+    nsecs: 474973419
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188479
+      nsecs: 274332046
+    id: "/follow_waypoints-199-1545188479.274"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 199
+  stamp: 
+    secs: 1545188479
+    nsecs: 677656687
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188479
+      nsecs: 476883888
+    id: "/follow_waypoints-200-1545188479.477"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 200
+  stamp: 
+    secs: 1545188479
+    nsecs: 880171562
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188479
+      nsecs: 679653882
+    id: "/follow_waypoints-201-1545188479.680"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 201
+  stamp: 
+    secs: 1545188480
+    nsecs:  82429597
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188479
+      nsecs: 881989955
+    id: "/follow_waypoints-202-1545188479.882"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 202
+  stamp: 
+    secs: 1545188496
+    nsecs: 484152821
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188480
+      nsecs:  83729028
+    id: "/follow_waypoints-203-1545188480.084"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 203
+  stamp: 
+    secs: 1545188496
+    nsecs: 717053146
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188496
+      nsecs: 516550064
+    id: "/follow_waypoints-204-1545188496.517"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 204
+  stamp: 
+    secs: 1545188496
+    nsecs: 921609731
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188496
+      nsecs: 719188928
+    id: "/follow_waypoints-205-1545188496.719"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 205
+  stamp: 
+    secs: 1545188497
+    nsecs: 124769888
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188496
+      nsecs: 923851013
+    id: "/follow_waypoints-206-1545188496.924"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 206
+  stamp: 
+    secs: 1545188497
+    nsecs: 326500690
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188497
+      nsecs: 126091003
+    id: "/follow_waypoints-207-1545188497.126"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 207
+  stamp: 
+    secs: 1545188497
+    nsecs: 528596357
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188497
+      nsecs: 327666044
+    id: "/follow_waypoints-208-1545188497.328"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 208
+  stamp: 
+    secs: 1545188497
+    nsecs: 732911666
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188497
+      nsecs: 532310962
+    id: "/follow_waypoints-209-1545188497.532"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 209
+  stamp: 
+    secs: 1545188497
+    nsecs: 935522277
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188497
+      nsecs: 734620094
+    id: "/follow_waypoints-210-1545188497.735"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 210
+  stamp: 
+    secs: 1545188498
+    nsecs: 138388494
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188497
+      nsecs: 937084913
+    id: "/follow_waypoints-211-1545188497.937"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 211
+  stamp: 
+    secs: 1545188498
+    nsecs: 340399413
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188498
+      nsecs: 139698982
+    id: "/follow_waypoints-212-1545188498.140"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 212
+  stamp: 
+    secs: 1545188498
+    nsecs: 542420903
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188498
+      nsecs: 341980934
+    id: "/follow_waypoints-213-1545188498.342"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 213
+  stamp: 
+    secs: 1545188498
+    nsecs: 744602486
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188498
+      nsecs: 544157028
+    id: "/follow_waypoints-214-1545188498.544"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 214
+  stamp: 
+    secs: 1545188498
+    nsecs: 948415987
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188498
+      nsecs: 745671033
+    id: "/follow_waypoints-215-1545188498.746"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 215
+  stamp: 
+    secs: 1545188499
+    nsecs: 151063701
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188498
+      nsecs: 950553894
+    id: "/follow_waypoints-216-1545188498.951"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 216
+  stamp: 
+    secs: 1545188499
+    nsecs: 353462371
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188499
+      nsecs: 152925014
+    id: "/follow_waypoints-217-1545188499.153"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 217
+  stamp: 
+    secs: 1545188499
+    nsecs: 555846169
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188499
+      nsecs: 355441093
+    id: "/follow_waypoints-218-1545188499.355"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 218
+  stamp: 
+    secs: 1545188499
+    nsecs: 757668484
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188499
+      nsecs: 557109117
+    id: "/follow_waypoints-219-1545188499.557"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 219
+  stamp: 
+    secs: 1545188545
+    nsecs: 959566938
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188499
+      nsecs: 759124040
+    id: "/follow_waypoints-220-1545188499.759"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 220
+  stamp: 
+    secs: 1545188546
+    nsecs: 961289912
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188545
+      nsecs: 960875988
+    id: "/follow_waypoints-221-1545188545.961"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 221
+  stamp: 
+    secs: 1545188547
+    nsecs: 163669637
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188546
+      nsecs: 963099956
+    id: "/follow_waypoints-222-1545188546.963"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 222
+  stamp: 
+    secs: 1545188588
+    nsecs: 166314552
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188547
+      nsecs: 165817022
+    id: "/follow_waypoints-223-1545188547.166"
+  status: 4
+  text: "Failed to find a valid control. Even after executing recovery behaviors."
+result: 
+
+---
+header: 
+  seq: 223
+  stamp: 
+    secs: 1545188605
+    nsecs: 767932150
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188588
+      nsecs: 167495012
+    id: "/follow_waypoints-224-1545188588.167"
+  status: 4
+  text: "Failed to find a valid control. Even after executing recovery behaviors."
+result: 
+
+---
+header: 
+  seq: 224
+  stamp: 
+    secs: 1545188644
+    nsecs: 774953274
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188605
+      nsecs: 774220943
+    id: "/follow_waypoints-225-1545188605.774"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 225
+  stamp: 
+    secs: 1545188644
+    nsecs: 987289039
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188644
+      nsecs: 784876108
+    id: "/follow_waypoints-226-1545188644.785"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 226
+  stamp: 
+    secs: 1545188645
+    nsecs: 189971122
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188644
+      nsecs: 989475011
+    id: "/follow_waypoints-227-1545188644.989"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 227
+  stamp: 
+    secs: 1545188645
+    nsecs: 392430923
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188645
+      nsecs: 191854000
+    id: "/follow_waypoints-228-1545188645.192"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 228
+  stamp: 
+    secs: 1545188645
+    nsecs: 594357588
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188645
+      nsecs: 393783092
+    id: "/follow_waypoints-229-1545188645.394"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 229
+  stamp: 
+    secs: 1545188645
+    nsecs: 799265212
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188645
+      nsecs: 598546028
+    id: "/follow_waypoints-230-1545188645.599"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 230
+  stamp: 
+    secs: 1545188646
+    nsecs:   1572638
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188645
+      nsecs: 800853967
+    id: "/follow_waypoints-231-1545188645.801"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 231
+  stamp: 
+    secs: 1545188646
+    nsecs: 204615086
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188646
+      nsecs:   4187107
+    id: "/follow_waypoints-232-1545188646.004"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 232
+  stamp: 
+    secs: 1545188646
+    nsecs: 407175769
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188646
+      nsecs: 206643104
+    id: "/follow_waypoints-233-1545188646.207"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 233
+  stamp: 
+    secs: 1545188646
+    nsecs: 609451096
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188646
+      nsecs: 408942937
+    id: "/follow_waypoints-234-1545188646.409"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 234
+  stamp: 
+    secs: 1545188646
+    nsecs: 811729778
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188646
+      nsecs: 611217975
+    id: "/follow_waypoints-235-1545188646.611"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 235
+  stamp: 
+    secs: 1545188647
+    nsecs:  14062241
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188646
+      nsecs: 813577890
+    id: "/follow_waypoints-236-1545188646.814"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 236
+  stamp: 
+    secs: 1545188647
+    nsecs: 215758780
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188647
+      nsecs:  15223026
+    id: "/follow_waypoints-237-1545188647.015"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 237
+  stamp: 
+    secs: 1545188647
+    nsecs: 417611845
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188647
+      nsecs: 217047929
+    id: "/follow_waypoints-238-1545188647.217"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 238
+  stamp: 
+    secs: 1545188647
+    nsecs: 619325767
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188647
+      nsecs: 418720960
+    id: "/follow_waypoints-239-1545188647.419"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 239
+  stamp: 
+    secs: 1545188647
+    nsecs: 821432185
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188647
+      nsecs: 620912075
+    id: "/follow_waypoints-240-1545188647.621"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 240
+  stamp: 
+    secs: 1545188648
+    nsecs:  27046210
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188647
+      nsecs: 826554059
+    id: "/follow_waypoints-241-1545188647.827"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 241
+  stamp: 
+    secs: 1545188648
+    nsecs: 229835914
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188648
+      nsecs:  29275894
+    id: "/follow_waypoints-242-1545188648.029"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 242
+  stamp: 
+    secs: 1545188648
+    nsecs: 432581375
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188648
+      nsecs: 231862068
+    id: "/follow_waypoints-243-1545188648.232"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 243
+  stamp: 
+    secs: 1545188648
+    nsecs: 635122429
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188648
+      nsecs: 434626102
+    id: "/follow_waypoints-244-1545188648.435"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 244
+  stamp: 
+    secs: 1545188648
+    nsecs: 837014974
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188648
+      nsecs: 636497020
+    id: "/follow_waypoints-245-1545188648.636"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 245
+  stamp: 
+    secs: 1545188649
+    nsecs:  39495982
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188648
+      nsecs: 839056968
+    id: "/follow_waypoints-246-1545188648.839"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 246
+  stamp: 
+    secs: 1545188649
+    nsecs: 242224765
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188649
+      nsecs:  41574001
+    id: "/follow_waypoints-247-1545188649.042"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 247
+  stamp: 
+    secs: 1545188649
+    nsecs: 444288171
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188649
+      nsecs: 243824958
+    id: "/follow_waypoints-248-1545188649.244"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 248
+  stamp: 
+    secs: 1545188649
+    nsecs: 646070435
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188649
+      nsecs: 445595979
+    id: "/follow_waypoints-249-1545188649.446"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 249
+  stamp: 
+    secs: 1545188649
+    nsecs: 849167892
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188649
+      nsecs: 648727893
+    id: "/follow_waypoints-250-1545188649.649"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 250
+  stamp: 
+    secs: 1545188670
+    nsecs: 651491671
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188649
+      nsecs: 851089954
+    id: "/follow_waypoints-251-1545188649.851"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 251
+  stamp: 
+    secs: 1545188670
+    nsecs: 857166074
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188670
+      nsecs: 656707048
+    id: "/follow_waypoints-252-1545188670.657"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 252
+  stamp: 
+    secs: 1545188671
+    nsecs:  59758030
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188670
+      nsecs: 859169960
+    id: "/follow_waypoints-253-1545188670.859"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 253
+  stamp: 
+    secs: 1545188671
+    nsecs: 263577433
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188671
+      nsecs:  62268972
+    id: "/follow_waypoints-254-1545188671.062"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 254
+  stamp: 
+    secs: 1545188671
+    nsecs: 465280603
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188671
+      nsecs: 264756917
+    id: "/follow_waypoints-255-1545188671.265"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 255
+  stamp: 
+    secs: 1545188671
+    nsecs: 670689699
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188671
+      nsecs: 467219114
+    id: "/follow_waypoints-256-1545188671.467"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 256
+  stamp: 
+    secs: 1545188671
+    nsecs: 872495129
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188671
+      nsecs: 672070026
+    id: "/follow_waypoints-257-1545188671.672"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 257
+  stamp: 
+    secs: 1545188672
+    nsecs:  74328609
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188671
+      nsecs: 873871088
+    id: "/follow_waypoints-258-1545188671.874"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 258
+  stamp: 
+    secs: 1545188672
+    nsecs: 276019680
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188672
+      nsecs:  75597047
+    id: "/follow_waypoints-259-1545188672.076"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 259
+  stamp: 
+    secs: 1545188672
+    nsecs: 480498433
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188672
+      nsecs: 280005931
+    id: "/follow_waypoints-260-1545188672.280"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 260
+  stamp: 
+    secs: 1545188672
+    nsecs: 682615413
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188672
+      nsecs: 482208967
+    id: "/follow_waypoints-261-1545188672.482"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 261
+  stamp: 
+    secs: 1545188672
+    nsecs: 886906526
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188672
+      nsecs: 686464071
+    id: "/follow_waypoints-262-1545188672.686"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 262
+  stamp: 
+    secs: 1545188673
+    nsecs:  89526114
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188672
+      nsecs: 889092922
+    id: "/follow_waypoints-263-1545188672.889"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 263
+  stamp: 
+    secs: 1545188673
+    nsecs: 291310565
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188673
+      nsecs:  90831995
+    id: "/follow_waypoints-264-1545188673.091"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 264
+  stamp: 
+    secs: 1545188673
+    nsecs: 493732239
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188673
+      nsecs: 293160915
+    id: "/follow_waypoints-265-1545188673.293"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 265
+  stamp: 
+    secs: 1545188673
+    nsecs: 696342944
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188673
+      nsecs: 495556116
+    id: "/follow_waypoints-266-1545188673.496"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 266
+  stamp: 
+    secs: 1545188683
+    nsecs:  98715489
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188673
+      nsecs: 698288917
+    id: "/follow_waypoints-267-1545188673.698"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 267
+  stamp: 
+    secs: 1545188683
+    nsecs: 316046845
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188683
+      nsecs: 115590095
+    id: "/follow_waypoints-268-1545188683.116"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 268
+  stamp: 
+    secs: 1545188683
+    nsecs: 518670144
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188683
+      nsecs: 317476987
+    id: "/follow_waypoints-269-1545188683.317"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 269
+  stamp: 
+    secs: 1545188683
+    nsecs: 720387544
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188683
+      nsecs: 519925117
+    id: "/follow_waypoints-270-1545188683.520"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 270
+  stamp: 
+    secs: 1545188683
+    nsecs: 922797718
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188683
+      nsecs: 722227096
+    id: "/follow_waypoints-271-1545188683.722"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 271
+  stamp: 
+    secs: 1545188684
+    nsecs: 125062279
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188683
+      nsecs: 924562931
+    id: "/follow_waypoints-272-1545188683.925"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 272
+  stamp: 
+    secs: 1545188777
+    nsecs: 727197660
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188684
+      nsecs: 126804113
+    id: "/follow_waypoints-273-1545188684.127"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 273
+  stamp: 
+    secs: 1545188779
+    nsecs: 530618614
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188777
+      nsecs: 730175018
+    id: "/follow_waypoints-274-1545188777.730"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 274
+  stamp: 
+    secs: 1545188782
+    nsecs: 336931004
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188779
+      nsecs: 536519050
+    id: "/follow_waypoints-275-1545188779.537"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 275
+  stamp: 
+    secs: 1545188789
+    nsecs: 946131168
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188782
+      nsecs: 345602035
+    id: "/follow_waypoints-276-1545188782.346"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 276
+  stamp: 
+    secs: 1545188791
+    nsecs: 762018696
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188789
+      nsecs: 961452960
+    id: "/follow_waypoints-277-1545188789.961"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 277
+  stamp: 
+    secs: 1545188793
+    nsecs: 767279077
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188791
+      nsecs: 766436100
+    id: "/follow_waypoints-278-1545188791.766"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 278
+  stamp: 
+    secs: 1545188795
+    nsecs: 771731496
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188793
+      nsecs: 771177053
+    id: "/follow_waypoints-279-1545188793.771"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 279
+  stamp: 
+    secs: 1545188797
+    nsecs: 776786165
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188795
+      nsecs: 775930881
+    id: "/follow_waypoints-280-1545188795.776"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 280
+  stamp: 
+    secs: 1545188799
+    nsecs: 782255964
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188797
+      nsecs: 781766891
+    id: "/follow_waypoints-281-1545188797.782"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 281
+  stamp: 
+    secs: 1545188801
+    nsecs: 786778263
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188799
+      nsecs: 786154031
+    id: "/follow_waypoints-282-1545188799.786"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 282
+  stamp: 
+    secs: 1545188803
+    nsecs: 796617725
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188801
+      nsecs: 796123027
+    id: "/follow_waypoints-283-1545188801.796"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 283
+  stamp: 
+    secs: 1545188805
+    nsecs: 802614097
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188803
+      nsecs: 802078008
+    id: "/follow_waypoints-284-1545188803.802"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 284
+  stamp: 
+    secs: 1545188807
+    nsecs: 810720623
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188805
+      nsecs: 810230016
+    id: "/follow_waypoints-285-1545188805.810"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 285
+  stamp: 
+    secs: 1545188821
+    nsecs: 815471704
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188807
+      nsecs: 815047979
+    id: "/follow_waypoints-286-1545188807.815"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 286
+  stamp: 
+    secs: 1545188822
+    nsecs:  57674157
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188821
+      nsecs: 844528913
+    id: "/follow_waypoints-287-1545188821.845"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 287
+  stamp: 
+    secs: 1545188822
+    nsecs: 261755216
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188822
+      nsecs:  61181068
+    id: "/follow_waypoints-288-1545188822.061"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 288
+  stamp: 
+    secs: 1545188822
+    nsecs: 463612908
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188822
+      nsecs: 263165950
+    id: "/follow_waypoints-289-1545188822.263"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 289
+  stamp: 
+    secs: 1545188822
+    nsecs: 665904222
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188822
+      nsecs: 465037107
+    id: "/follow_waypoints-290-1545188822.465"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 290
+  stamp: 
+    secs: 1545188833
+    nsecs: 867911338
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188822
+      nsecs: 667429924
+    id: "/follow_waypoints-291-1545188822.667"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 291
+  stamp: 
+    secs: 1545188834
+    nsecs:  90706305
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188833
+      nsecs: 890150070
+    id: "/follow_waypoints-292-1545188833.890"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 292
+  stamp: 
+    secs: 1545188834
+    nsecs: 292288637
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188834
+      nsecs:  91813087
+    id: "/follow_waypoints-293-1545188834.092"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 293
+  stamp: 
+    secs: 1545188834
+    nsecs: 493895660
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188834
+      nsecs: 293364048
+    id: "/follow_waypoints-294-1545188834.293"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 294
+  stamp: 
+    secs: 1545188834
+    nsecs: 698927674
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188834
+      nsecs: 497622013
+    id: "/follow_waypoints-295-1545188834.498"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 295
+  stamp: 
+    secs: 1545188834
+    nsecs: 901218640
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188834
+      nsecs: 700633049
+    id: "/follow_waypoints-296-1545188834.701"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 296
+  stamp: 
+    secs: 1545188835
+    nsecs: 106166083
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188834
+      nsecs: 903029918
+    id: "/follow_waypoints-297-1545188834.903"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 297
+  stamp: 
+    secs: 1545188835
+    nsecs: 308490117
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188835
+      nsecs: 107914924
+    id: "/follow_waypoints-298-1545188835.108"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 298
+  stamp: 
+    secs: 1545188835
+    nsecs: 510729390
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188835
+      nsecs: 310246944
+    id: "/follow_waypoints-299-1545188835.310"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 299
+  stamp: 
+    secs: 1545188847
+    nsecs: 312595927
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188835
+      nsecs: 512090921
+    id: "/follow_waypoints-300-1545188835.512"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 300
+  stamp: 
+    secs: 1545188847
+    nsecs: 537911274
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188847
+      nsecs: 336935043
+    id: "/follow_waypoints-301-1545188847.337"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 301
+  stamp: 
+    secs: 1545188847
+    nsecs: 740084601
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188847
+      nsecs: 539499998
+    id: "/follow_waypoints-302-1545188847.539"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 302
+  stamp: 
+    secs: 1545188847
+    nsecs: 942267932
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188847
+      nsecs: 741818904
+    id: "/follow_waypoints-303-1545188847.742"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 303
+  stamp: 
+    secs: 1545188848
+    nsecs: 144868814
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188847
+      nsecs: 944227933
+    id: "/follow_waypoints-304-1545188847.944"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 304
+  stamp: 
+    secs: 1545188848
+    nsecs: 347007019
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188848
+      nsecs: 146594047
+    id: "/follow_waypoints-305-1545188848.147"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 305
+  stamp: 
+    secs: 1545188848
+    nsecs: 549607225
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188848
+      nsecs: 349081039
+    id: "/follow_waypoints-306-1545188848.349"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 306
+  stamp: 
+    secs: 1545188848
+    nsecs: 751941277
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188848
+      nsecs: 551466941
+    id: "/follow_waypoints-307-1545188848.551"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 307
+  stamp: 
+    secs: 1545188848
+    nsecs: 954836388
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188848
+      nsecs: 754189968
+    id: "/follow_waypoints-308-1545188848.754"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 308
+  stamp: 
+    secs: 1545188849
+    nsecs: 156736639
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188848
+      nsecs: 956269979
+    id: "/follow_waypoints-309-1545188848.956"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 309
+  stamp: 
+    secs: 1545188849
+    nsecs: 359046847
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188849
+      nsecs: 158586025
+    id: "/follow_waypoints-310-1545188849.159"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 310
+  stamp: 
+    secs: 1545188849
+    nsecs: 565988464
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188849
+      nsecs: 361670017
+    id: "/follow_waypoints-311-1545188849.362"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 311
+  stamp: 
+    secs: 1545188849
+    nsecs: 770886073
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188849
+      nsecs: 570363998
+    id: "/follow_waypoints-312-1545188849.570"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 312
+  stamp: 
+    secs: 1545188849
+    nsecs: 973238350
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188849
+      nsecs: 772587060
+    id: "/follow_waypoints-313-1545188849.773"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 313
+  stamp: 
+    secs: 1545188850
+    nsecs: 175622544
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188849
+      nsecs: 975076913
+    id: "/follow_waypoints-314-1545188849.975"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 314
+  stamp: 
+    secs: 1545188850
+    nsecs: 377993730
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188850
+      nsecs: 177423954
+    id: "/follow_waypoints-315-1545188850.177"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 315
+  stamp: 
+    secs: 1545188850
+    nsecs: 580206306
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188850
+      nsecs: 379523038
+    id: "/follow_waypoints-316-1545188850.380"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 316
+  stamp: 
+    secs: 1545188850
+    nsecs: 782417124
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188850
+      nsecs: 581859111
+    id: "/follow_waypoints-317-1545188850.582"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 317
+  stamp: 
+    secs: 1545188850
+    nsecs: 984833534
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188850
+      nsecs: 784348964
+    id: "/follow_waypoints-318-1545188850.784"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 318
+  stamp: 
+    secs: 1545188851
+    nsecs: 188416957
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188850
+      nsecs: 986485958
+    id: "/follow_waypoints-319-1545188850.986"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 319
+  stamp: 
+    secs: 1545188851
+    nsecs: 391805786
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188851
+      nsecs: 191140890
+    id: "/follow_waypoints-320-1545188851.191"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 320
+  stamp: 
+    secs: 1545188851
+    nsecs: 594351479
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188851
+      nsecs: 393930912
+    id: "/follow_waypoints-321-1545188851.394"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 321
+  stamp: 
+    secs: 1545188851
+    nsecs: 798893911
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188851
+      nsecs: 596666097
+    id: "/follow_waypoints-322-1545188851.597"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 322
+  stamp: 
+    secs: 1545188852
+    nsecs:   1628783
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188851
+      nsecs: 801199913
+    id: "/follow_waypoints-323-1545188851.801"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 323
+  stamp: 
+    secs: 1545188852
+    nsecs: 203899968
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188852
+      nsecs:   3439903
+    id: "/follow_waypoints-324-1545188852.003"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 324
+  stamp: 
+    secs: 1545188852
+    nsecs: 405796903
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188852
+      nsecs: 205343961
+    id: "/follow_waypoints-325-1545188852.205"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 325
+  stamp: 
+    secs: 1545188852
+    nsecs: 607624487
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188852
+      nsecs: 407114028
+    id: "/follow_waypoints-326-1545188852.407"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 326
+  stamp: 
+    secs: 1545188852
+    nsecs: 810141541
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188852
+      nsecs: 609555006
+    id: "/follow_waypoints-327-1545188852.610"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 327
+  stamp: 
+    secs: 1545188853
+    nsecs:  16419418
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188852
+      nsecs: 811983108
+    id: "/follow_waypoints-328-1545188852.812"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 328
+  stamp: 
+    secs: 1545188853
+    nsecs: 221344633
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188853
+      nsecs:  20874977
+    id: "/follow_waypoints-329-1545188853.021"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 329
+  stamp: 
+    secs: 1545188853
+    nsecs: 423194927
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188853
+      nsecs: 222721099
+    id: "/follow_waypoints-330-1545188853.223"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 330
+  stamp: 
+    secs: 1545188853
+    nsecs: 629810773
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188853
+      nsecs: 425039052
+    id: "/follow_waypoints-331-1545188853.425"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 331
+  stamp: 
+    secs: 1545188853
+    nsecs: 834200298
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188853
+      nsecs: 633644104
+    id: "/follow_waypoints-332-1545188853.634"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 332
+  stamp: 
+    secs: 1545188854
+    nsecs:  36398402
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188853
+      nsecs: 835855960
+    id: "/follow_waypoints-333-1545188853.836"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 333
+  stamp: 
+    secs: 1545188854
+    nsecs: 239074808
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188854
+      nsecs:  38374900
+    id: "/follow_waypoints-334-1545188854.038"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 334
+  stamp: 
+    secs: 1545188854
+    nsecs: 441264636
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188854
+      nsecs: 240756988
+    id: "/follow_waypoints-335-1545188854.241"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 335
+  stamp: 
+    secs: 1545188878
+    nsecs: 443916065
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188854
+      nsecs: 443245887
+    id: "/follow_waypoints-336-1545188854.443"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 336
+  stamp: 
+    secs: 1545188878
+    nsecs: 652705504
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188878
+      nsecs: 452122926
+    id: "/follow_waypoints-337-1545188878.452"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 337
+  stamp: 
+    secs: 1545188878
+    nsecs: 854763834
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188878
+      nsecs: 654335021
+    id: "/follow_waypoints-338-1545188878.654"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 338
+  stamp: 
+    secs: 1545188879
+    nsecs:  57139272
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188878
+      nsecs: 855952978
+    id: "/follow_waypoints-339-1545188878.856"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 339
+  stamp: 
+    secs: 1545188879
+    nsecs: 259466463
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188879
+      nsecs:  58636903
+    id: "/follow_waypoints-340-1545188879.059"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 340
+  stamp: 
+    secs: 1545188879
+    nsecs: 461389852
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188879
+      nsecs: 260915040
+    id: "/follow_waypoints-341-1545188879.261"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 341
+  stamp: 
+    secs: 1545188879
+    nsecs: 663664041
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188879
+      nsecs: 463227987
+    id: "/follow_waypoints-342-1545188879.463"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 342
+  stamp: 
+    secs: 1545188879
+    nsecs: 869672727
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188879
+      nsecs: 665780067
+    id: "/follow_waypoints-343-1545188879.666"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 343
+  stamp: 
+    secs: 1545188880
+    nsecs:  71402873
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188879
+      nsecs: 870997905
+    id: "/follow_waypoints-344-1545188879.871"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 344
+  stamp: 
+    secs: 1545188880
+    nsecs: 273612720
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188880
+      nsecs:  72711944
+    id: "/follow_waypoints-345-1545188880.073"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 345
+  stamp: 
+    secs: 1545188880
+    nsecs: 482460940
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188880
+      nsecs: 281403064
+    id: "/follow_waypoints-346-1545188880.281"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 346
+  stamp: 
+    secs: 1545188880
+    nsecs: 684329783
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188880
+      nsecs: 483896017
+    id: "/follow_waypoints-347-1545188880.484"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 347
+  stamp: 
+    secs: 1545188880
+    nsecs: 886734766
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188880
+      nsecs: 686281919
+    id: "/follow_waypoints-348-1545188880.686"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 348
+  stamp: 
+    secs: 1545188881
+    nsecs:  90486533
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188880
+      nsecs: 889760971
+    id: "/follow_waypoints-349-1545188880.890"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 349
+  stamp: 
+    secs: 1545188881
+    nsecs: 292548253
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188881
+      nsecs:  92066049
+    id: "/follow_waypoints-350-1545188881.092"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 350
+  stamp: 
+    secs: 1545188881
+    nsecs: 495139531
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188881
+      nsecs: 294666051
+    id: "/follow_waypoints-351-1545188881.295"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 351
+  stamp: 
+    secs: 1545188881
+    nsecs: 699353858
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188881
+      nsecs: 498939990
+    id: "/follow_waypoints-352-1545188881.499"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 352
+  stamp: 
+    secs: 1545188911
+    nsecs: 301472946
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188881
+      nsecs: 700994968
+    id: "/follow_waypoints-353-1545188881.701"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 353
+  stamp: 
+    secs: 1545188911
+    nsecs: 532438952
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188911
+      nsecs: 331995010
+    id: "/follow_waypoints-354-1545188911.332"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 354
+  stamp: 
+    secs: 1545188921
+    nsecs: 134988347
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188911
+      nsecs: 534455060
+    id: "/follow_waypoints-355-1545188911.534"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 355
+  stamp: 
+    secs: 1545188983
+    nsecs: 956986845
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188921
+      nsecs: 156287908
+    id: "/follow_waypoints-356-1545188921.156"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 356
+  stamp: 
+    secs: 1545188984
+    nsecs: 187084979
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188983
+      nsecs: 975090980
+    id: "/follow_waypoints-357-1545188983.975"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 357
+  stamp: 
+    secs: 1545188984
+    nsecs: 392575850
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188984
+      nsecs: 191673040
+    id: "/follow_waypoints-358-1545188984.192"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 358
+  stamp: 
+    secs: 1545188984
+    nsecs: 598223295
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188984
+      nsecs: 394098997
+    id: "/follow_waypoints-359-1545188984.394"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 359
+  stamp: 
+    secs: 1545188984
+    nsecs: 803467680
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188984
+      nsecs: 602869987
+    id: "/follow_waypoints-360-1545188984.603"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 360
+  stamp: 
+    secs: 1545188985
+    nsecs:   5784666
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188984
+      nsecs: 805289030
+    id: "/follow_waypoints-361-1545188984.805"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 361
+  stamp: 
+    secs: 1545188985
+    nsecs: 208416743
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188985
+      nsecs:   7610082
+    id: "/follow_waypoints-362-1545188985.008"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 362
+  stamp: 
+    secs: 1545188985
+    nsecs: 411174883
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188985
+      nsecs: 210300922
+    id: "/follow_waypoints-363-1545188985.210"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 363
+  stamp: 
+    secs: 1545188985
+    nsecs: 613345365
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188985
+      nsecs: 412791967
+    id: "/follow_waypoints-364-1545188985.413"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 364
+  stamp: 
+    secs: 1545188985
+    nsecs: 815642426
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188985
+      nsecs: 615196943
+    id: "/follow_waypoints-365-1545188985.615"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 365
+  stamp: 
+    secs: 1545188986
+    nsecs:  18677623
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188985
+      nsecs: 818226099
+    id: "/follow_waypoints-366-1545188985.818"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 366
+  stamp: 
+    secs: 1545188986
+    nsecs: 220444616
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188986
+      nsecs:  19984960
+    id: "/follow_waypoints-367-1545188986.020"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 367
+  stamp: 
+    secs: 1545188986
+    nsecs: 423296000
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188986
+      nsecs: 222656965
+    id: "/follow_waypoints-368-1545188986.223"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 368
+  stamp: 
+    secs: 1545188986
+    nsecs: 625357561
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188986
+      nsecs: 424736976
+    id: "/follow_waypoints-369-1545188986.425"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 369
+  stamp: 
+    secs: 1545188986
+    nsecs: 830435796
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188986
+      nsecs: 629898071
+    id: "/follow_waypoints-370-1545188986.630"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 370
+  stamp: 
+    secs: 1545188987
+    nsecs:  33043670
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188986
+      nsecs: 832577943
+    id: "/follow_waypoints-371-1545188986.833"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 371
+  stamp: 
+    secs: 1545188987
+    nsecs: 241891064
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188987
+      nsecs:  41351079
+    id: "/follow_waypoints-372-1545188987.041"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 372
+  stamp: 
+    secs: 1545188987
+    nsecs: 444265825
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188987
+      nsecs: 243815898
+    id: "/follow_waypoints-373-1545188987.244"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 373
+  stamp: 
+    secs: 1545188987
+    nsecs: 647258825
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188987
+      nsecs: 446798086
+    id: "/follow_waypoints-374-1545188987.447"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 374
+  stamp: 
+    secs: 1545188987
+    nsecs: 850302064
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188987
+      nsecs: 649871110
+    id: "/follow_waypoints-375-1545188987.650"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 375
+  stamp: 
+    secs: 1545188988
+    nsecs:  52032373
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188987
+      nsecs: 851591110
+    id: "/follow_waypoints-376-1545188987.852"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 376
+  stamp: 
+    secs: 1545188988
+    nsecs: 258873605
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188988
+      nsecs:  56709051
+    id: "/follow_waypoints-377-1545188988.057"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 377
+  stamp: 
+    secs: 1545188988
+    nsecs: 462203046
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188988
+      nsecs: 261632919
+    id: "/follow_waypoints-378-1545188988.262"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 378
+  stamp: 
+    secs: 1545188988
+    nsecs: 664494056
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188988
+      nsecs: 464001893
+    id: "/follow_waypoints-379-1545188988.464"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 379
+  stamp: 
+    secs: 1545188988
+    nsecs: 867414844
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188988
+      nsecs: 666779994
+    id: "/follow_waypoints-380-1545188988.667"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 380
+  stamp: 
+    secs: 1545188989
+    nsecs:  71140313
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188988
+      nsecs: 869451999
+    id: "/follow_waypoints-381-1545188988.869"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 381
+  stamp: 
+    secs: 1545188989
+    nsecs: 274584462
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188989
+      nsecs:  74085950
+    id: "/follow_waypoints-382-1545188989.074"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 382
+  stamp: 
+    secs: 1545188989
+    nsecs: 476440294
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188989
+      nsecs: 275922060
+    id: "/follow_waypoints-383-1545188989.276"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 383
+  stamp: 
+    secs: 1545189027
+    nsecs:  78775751
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545188989
+      nsecs: 478339910
+    id: "/follow_waypoints-384-1545188989.478"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 384
+  stamp: 
+    secs: 1545189027
+    nsecs: 885894535
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189027
+      nsecs:  85191011
+    id: "/follow_waypoints-385-1545189027.085"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 385
+  stamp: 
+    secs: 1545189028
+    nsecs:  89624382
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189027
+      nsecs: 887115955
+    id: "/follow_waypoints-386-1545189027.887"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 386
+  stamp: 
+    secs: 1545189028
+    nsecs: 292225245
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189028
+      nsecs:  91711997
+    id: "/follow_waypoints-387-1545189028.092"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 387
+  stamp: 
+    secs: 1545189028
+    nsecs: 493890522
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189028
+      nsecs: 293379068
+    id: "/follow_waypoints-388-1545189028.293"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 388
+  stamp: 
+    secs: 1545189028
+    nsecs: 696311605
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189028
+      nsecs: 495817899
+    id: "/follow_waypoints-389-1545189028.496"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 389
+  stamp: 
+    secs: 1545189028
+    nsecs: 901795161
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189028
+      nsecs: 697518110
+    id: "/follow_waypoints-390-1545189028.698"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 390
+  stamp: 
+    secs: 1545189029
+    nsecs: 106953957
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189028
+      nsecs: 906389951
+    id: "/follow_waypoints-391-1545189028.906"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 391
+  stamp: 
+    secs: 1545189029
+    nsecs: 310047609
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189029
+      nsecs: 109122037
+    id: "/follow_waypoints-392-1545189029.109"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 392
+  stamp: 
+    secs: 1545189029
+    nsecs: 512183183
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189029
+      nsecs: 311661005
+    id: "/follow_waypoints-393-1545189029.312"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 393
+  stamp: 
+    secs: 1545189029
+    nsecs: 714653726
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189029
+      nsecs: 514051914
+    id: "/follow_waypoints-394-1545189029.514"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 394
+  stamp: 
+    secs: 1545189029
+    nsecs: 916332690
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189029
+      nsecs: 715810060
+    id: "/follow_waypoints-395-1545189029.716"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 395
+  stamp: 
+    secs: 1545189030
+    nsecs: 118525585
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189029
+      nsecs: 917748928
+    id: "/follow_waypoints-396-1545189029.918"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 396
+  stamp: 
+    secs: 1545189030
+    nsecs: 320484606
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189030
+      nsecs: 119791984
+    id: "/follow_waypoints-397-1545189030.120"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 397
+  stamp: 
+    secs: 1545189030
+    nsecs: 522884571
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189030
+      nsecs: 322091102
+    id: "/follow_waypoints-398-1545189030.322"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 398
+  stamp: 
+    secs: 1545189030
+    nsecs: 725002063
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189030
+      nsecs: 524420022
+    id: "/follow_waypoints-399-1545189030.524"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 399
+  stamp: 
+    secs: 1545189040
+    nsecs: 527176127
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189030
+      nsecs: 726706981
+    id: "/follow_waypoints-400-1545189030.727"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 400
+  stamp: 
+    secs: 1545189040
+    nsecs: 744131343
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189040
+      nsecs: 543615102
+    id: "/follow_waypoints-401-1545189040.544"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 401
+  stamp: 
+    secs: 1545189040
+    nsecs: 946569112
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189040
+      nsecs: 746078968
+    id: "/follow_waypoints-402-1545189040.746"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 402
+  stamp: 
+    secs: 1545189041
+    nsecs: 149774967
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189040
+      nsecs: 948512077
+    id: "/follow_waypoints-403-1545189040.949"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 403
+  stamp: 
+    secs: 1545189041
+    nsecs: 351790175
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189041
+      nsecs: 151252031
+    id: "/follow_waypoints-404-1545189041.151"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 404
+  stamp: 
+    secs: 1545189041
+    nsecs: 553942496
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189041
+      nsecs: 353539943
+    id: "/follow_waypoints-405-1545189041.354"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 405
+  stamp: 
+    secs: 1545189075
+    nsecs: 956393851
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189041
+      nsecs: 555923938
+    id: "/follow_waypoints-406-1545189041.556"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 406
+  stamp: 
+    secs: 1545189077
+    nsecs: 983681280
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189075
+      nsecs: 981775999
+    id: "/follow_waypoints-407-1545189075.982"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 407
+  stamp: 
+    secs: 1545189079
+    nsecs: 986637913
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189077
+      nsecs: 986223936
+    id: "/follow_waypoints-408-1545189077.986"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 408
+  stamp: 
+    secs: 1545189081
+    nsecs: 992810036
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189079
+      nsecs: 991672992
+    id: "/follow_waypoints-409-1545189079.992"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 409
+  stamp: 
+    secs: 1545189084
+    nsecs: 198414124
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189081
+      nsecs: 997416019
+    id: "/follow_waypoints-410-1545189081.997"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 410
+  stamp: 
+    secs: 1545189086
+    nsecs: 403430359
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189084
+      nsecs: 202950000
+    id: "/follow_waypoints-411-1545189084.203"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 411
+  stamp: 
+    secs: 1545189088
+    nsecs: 610704854
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189086
+      nsecs: 410269021
+    id: "/follow_waypoints-412-1545189086.410"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 412
+  stamp: 
+    secs: 1545189090
+    nsecs: 816155540
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189088
+      nsecs: 615628957
+    id: "/follow_waypoints-413-1545189088.616"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 413
+  stamp: 
+    secs: 1545189095
+    nsecs: 824914831
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189090
+      nsecs: 824429035
+    id: "/follow_waypoints-414-1545189090.824"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 414
+  stamp: 
+    secs: 1545189097
+    nsecs: 849621871
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189095
+      nsecs: 844062089
+    id: "/follow_waypoints-415-1545189095.844"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 415
+  stamp: 
+    secs: 1545189100
+    nsecs: 853612891
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189097
+      nsecs: 852977037
+    id: "/follow_waypoints-416-1545189097.853"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 416
+  stamp: 
+    secs: 1545189103
+    nsecs: 460019814
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189100
+      nsecs: 859466075
+    id: "/follow_waypoints-417-1545189100.859"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 417
+  stamp: 
+    secs: 1545189106
+    nsecs:  68308526
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189103
+      nsecs: 467027902
+    id: "/follow_waypoints-418-1545189103.467"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 418
+  stamp: 
+    secs: 1545189119
+    nsecs: 673574984
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189106
+      nsecs:  73079109
+    id: "/follow_waypoints-419-1545189106.073"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 419
+  stamp: 
+    secs: 1545189119
+    nsecs: 905703833
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189119
+      nsecs: 700365066
+    id: "/follow_waypoints-420-1545189119.700"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 420
+  stamp: 
+    secs: 1545189120
+    nsecs: 109786752
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189119
+      nsecs: 908900976
+    id: "/follow_waypoints-421-1545189119.909"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 421
+  stamp: 
+    secs: 1545189120
+    nsecs: 311965972
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189120
+      nsecs: 111409902
+    id: "/follow_waypoints-422-1545189120.111"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 422
+  stamp: 
+    secs: 1545189120
+    nsecs: 515130072
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189120
+      nsecs: 314327001
+    id: "/follow_waypoints-423-1545189120.314"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 423
+  stamp: 
+    secs: 1545189132
+    nsecs: 317419841
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189120
+      nsecs: 516848087
+    id: "/follow_waypoints-424-1545189120.517"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 424
+  stamp: 
+    secs: 1545189132
+    nsecs: 544508619
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189132
+      nsecs: 343935966
+    id: "/follow_waypoints-425-1545189132.344"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 425
+  stamp: 
+    secs: 1545189132
+    nsecs: 746882752
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189132
+      nsecs: 546381950
+    id: "/follow_waypoints-426-1545189132.546"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 426
+  stamp: 
+    secs: 1545189132
+    nsecs: 949889777
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189132
+      nsecs: 749209880
+    id: "/follow_waypoints-427-1545189132.749"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 427
+  stamp: 
+    secs: 1545189133
+    nsecs: 152515011
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189132
+      nsecs: 951812028
+    id: "/follow_waypoints-428-1545189132.952"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 428
+  stamp: 
+    secs: 1545189133
+    nsecs: 354829910
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189133
+      nsecs: 154283046
+    id: "/follow_waypoints-429-1545189133.154"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 429
+  stamp: 
+    secs: 1545189133
+    nsecs: 557272019
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189133
+      nsecs: 356724023
+    id: "/follow_waypoints-430-1545189133.357"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 430
+  stamp: 
+    secs: 1545189133
+    nsecs: 763035898
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189133
+      nsecs: 562431097
+    id: "/follow_waypoints-431-1545189133.562"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 431
+  stamp: 
+    secs: 1545189133
+    nsecs: 965364680
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189133
+      nsecs: 764853000
+    id: "/follow_waypoints-432-1545189133.765"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 432
+  stamp: 
+    secs: 1545189150
+    nsecs: 369989729
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189133
+      nsecs: 966804027
+    id: "/follow_waypoints-433-1545189133.967"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 433
+  stamp: 
+    secs: 1545189150
+    nsecs: 609670341
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189150
+      nsecs: 402395963
+    id: "/follow_waypoints-434-1545189150.402"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 434
+  stamp: 
+    secs: 1545189150
+    nsecs: 811670931
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189150
+      nsecs: 611130952
+    id: "/follow_waypoints-435-1545189150.611"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 435
+  stamp: 
+    secs: 1545189151
+    nsecs:  14126531
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189150
+      nsecs: 813659906
+    id: "/follow_waypoints-436-1545189150.814"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 436
+  stamp: 
+    secs: 1545189151
+    nsecs: 216490522
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189151
+      nsecs:  15964031
+    id: "/follow_waypoints-437-1545189151.016"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 437
+  stamp: 
+    secs: 1545189151
+    nsecs: 420135873
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189151
+      nsecs: 218559026
+    id: "/follow_waypoints-438-1545189151.219"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 438
+  stamp: 
+    secs: 1545189151
+    nsecs: 621927283
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189151
+      nsecs: 421405076
+    id: "/follow_waypoints-439-1545189151.421"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 439
+  stamp: 
+    secs: 1545189151
+    nsecs: 824100100
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189151
+      nsecs: 623616933
+    id: "/follow_waypoints-440-1545189151.624"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 440
+  stamp: 
+    secs: 1545189152
+    nsecs:  26402438
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189151
+      nsecs: 825964927
+    id: "/follow_waypoints-441-1545189151.826"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 441
+  stamp: 
+    secs: 1545189152
+    nsecs: 229375762
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189152
+      nsecs:  28037071
+    id: "/follow_waypoints-442-1545189152.028"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 442
+  stamp: 
+    secs: 1545189152
+    nsecs: 431279177
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189152
+      nsecs: 230838060
+    id: "/follow_waypoints-443-1545189152.231"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 443
+  stamp: 
+    secs: 1545189152
+    nsecs: 636461462
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189152
+      nsecs: 432672023
+    id: "/follow_waypoints-444-1545189152.433"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 444
+  stamp: 
+    secs: 1545189152
+    nsecs: 844103271
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189152
+      nsecs: 643630027
+    id: "/follow_waypoints-445-1545189152.644"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 445
+  stamp: 
+    secs: 1545189153
+    nsecs:  46747940
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189152
+      nsecs: 846163988
+    id: "/follow_waypoints-446-1545189152.846"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 446
+  stamp: 
+    secs: 1545189153
+    nsecs: 248957916
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189153
+      nsecs:  48338890
+    id: "/follow_waypoints-447-1545189153.048"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 447
+  stamp: 
+    secs: 1545189153
+    nsecs: 453641305
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189153
+      nsecs: 250509977
+    id: "/follow_waypoints-448-1545189153.251"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 448
+  stamp: 
+    secs: 1545189153
+    nsecs: 655302458
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189153
+      nsecs: 454850912
+    id: "/follow_waypoints-449-1545189153.455"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 449
+  stamp: 
+    secs: 1545189153
+    nsecs: 857797222
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189153
+      nsecs: 656939029
+    id: "/follow_waypoints-450-1545189153.657"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 450
+  stamp: 
+    secs: 1545189154
+    nsecs:  59926803
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189153
+      nsecs: 859380006
+    id: "/follow_waypoints-451-1545189153.859"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 451
+  stamp: 
+    secs: 1545189154
+    nsecs: 262205983
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189154
+      nsecs:  61702966
+    id: "/follow_waypoints-452-1545189154.062"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 452
+  stamp: 
+    secs: 1545189154
+    nsecs: 465697173
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189154
+      nsecs: 264106988
+    id: "/follow_waypoints-453-1545189154.264"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 453
+  stamp: 
+    secs: 1545189154
+    nsecs: 669515512
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189154
+      nsecs: 469063043
+    id: "/follow_waypoints-454-1545189154.469"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 454
+  stamp: 
+    secs: 1545189154
+    nsecs: 871995464
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189154
+      nsecs: 671557903
+    id: "/follow_waypoints-455-1545189154.672"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 455
+  stamp: 
+    secs: 1545189155
+    nsecs:  73813639
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189154
+      nsecs: 873344898
+    id: "/follow_waypoints-456-1545189154.873"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 456
+  stamp: 
+    secs: 1545189155
+    nsecs: 276312182
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189155
+      nsecs:  75773954
+    id: "/follow_waypoints-457-1545189155.076"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 457
+  stamp: 
+    secs: 1545189155
+    nsecs: 478833248
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189155
+      nsecs: 277560949
+    id: "/follow_waypoints-458-1545189155.278"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 458
+  stamp: 
+    secs: 1545189155
+    nsecs: 687179237
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189155
+      nsecs: 486704111
+    id: "/follow_waypoints-459-1545189155.487"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 459
+  stamp: 
+    secs: 1545189155
+    nsecs: 890338802
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189155
+      nsecs: 689716100
+    id: "/follow_waypoints-460-1545189155.690"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 460
+  stamp: 
+    secs: 1545189156
+    nsecs:  93518594
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189155
+      nsecs: 893059968
+    id: "/follow_waypoints-461-1545189155.893"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 461
+  stamp: 
+    secs: 1545189156
+    nsecs: 295769911
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189156
+      nsecs:  95057010
+    id: "/follow_waypoints-462-1545189156.095"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 462
+  stamp: 
+    secs: 1545189156
+    nsecs: 498838387
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189156
+      nsecs: 297674894
+    id: "/follow_waypoints-463-1545189156.298"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 463
+  stamp: 
+    secs: 1545189156
+    nsecs: 702924708
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189156
+      nsecs: 502341985
+    id: "/follow_waypoints-464-1545189156.502"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 464
+  stamp: 
+    secs: 1545189156
+    nsecs: 905581211
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189156
+      nsecs: 705090999
+    id: "/follow_waypoints-465-1545189156.705"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 465
+  stamp: 
+    secs: 1545189157
+    nsecs: 107343964
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189156
+      nsecs: 906843900
+    id: "/follow_waypoints-466-1545189156.907"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 466
+  stamp: 
+    secs: 1545189157
+    nsecs: 310124390
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189157
+      nsecs: 109628915
+    id: "/follow_waypoints-467-1545189157.110"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 467
+  stamp: 
+    secs: 1545189157
+    nsecs: 511670729
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189157
+      nsecs: 311187028
+    id: "/follow_waypoints-468-1545189157.311"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 468
+  stamp: 
+    secs: 1545189173
+    nsecs: 913658549
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189157
+      nsecs: 513003110
+    id: "/follow_waypoints-469-1545189157.513"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 469
+  stamp: 
+    secs: 1545189174
+    nsecs: 150024264
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189173
+      nsecs: 944648981
+    id: "/follow_waypoints-470-1545189173.945"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 470
+  stamp: 
+    secs: 1545189174
+    nsecs: 363832145
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189174
+      nsecs: 162933111
+    id: "/follow_waypoints-471-1545189174.163"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 471
+  stamp: 
+    secs: 1545189174
+    nsecs: 565779324
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189174
+      nsecs: 365293025
+    id: "/follow_waypoints-472-1545189174.365"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 472
+  stamp: 
+    secs: 1545189174
+    nsecs: 768477384
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189174
+      nsecs: 567991971
+    id: "/follow_waypoints-473-1545189174.568"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 473
+  stamp: 
+    secs: 1545189174
+    nsecs: 971511322
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189174
+      nsecs: 770530939
+    id: "/follow_waypoints-474-1545189174.771"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 474
+  stamp: 
+    secs: 1545189175
+    nsecs: 173730198
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189174
+      nsecs: 972788095
+    id: "/follow_waypoints-475-1545189174.973"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 475
+  stamp: 
+    secs: 1545189175
+    nsecs: 375490469
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189175
+      nsecs: 175039052
+    id: "/follow_waypoints-476-1545189175.175"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 476
+  stamp: 
+    secs: 1545189175
+    nsecs: 579515122
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189175
+      nsecs: 377444982
+    id: "/follow_waypoints-477-1545189175.377"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 477
+  stamp: 
+    secs: 1545189175
+    nsecs: 783037152
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189175
+      nsecs: 582520961
+    id: "/follow_waypoints-478-1545189175.583"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 478
+  stamp: 
+    secs: 1545189175
+    nsecs: 985486207
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189175
+      nsecs: 784993886
+    id: "/follow_waypoints-479-1545189175.785"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 479
+  stamp: 
+    secs: 1545189176
+    nsecs: 188904879
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189175
+      nsecs: 987657070
+    id: "/follow_waypoints-480-1545189175.988"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 480
+  stamp: 
+    secs: 1545189176
+    nsecs: 392821386
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189176
+      nsecs: 190495967
+    id: "/follow_waypoints-481-1545189176.190"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 481
+  stamp: 
+    secs: 1545189176
+    nsecs: 595410087
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189176
+      nsecs: 394990921
+    id: "/follow_waypoints-482-1545189176.395"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 482
+  stamp: 
+    secs: 1545189176
+    nsecs: 797821437
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189176
+      nsecs: 597219944
+    id: "/follow_waypoints-483-1545189176.597"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 483
+  stamp: 
+    secs: 1545189177
+    nsecs:    425230
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189176
+      nsecs: 799912929
+    id: "/follow_waypoints-484-1545189176.800"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 484
+  stamp: 
+    secs: 1545189177
+    nsecs: 202325626
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189177
+      nsecs:   1843929
+    id: "/follow_waypoints-485-1545189177.002"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 485
+  stamp: 
+    secs: 1545189203
+    nsecs: 604360066
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189177
+      nsecs: 203900098
+    id: "/follow_waypoints-486-1545189177.204"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 486
+  stamp: 
+    secs: 1545189203
+    nsecs: 825452715
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189203
+      nsecs: 625001907
+    id: "/follow_waypoints-487-1545189203.625"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 487
+  stamp: 
+    secs: 1545189204
+    nsecs:  28902170
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189203
+      nsecs: 827780008
+    id: "/follow_waypoints-488-1545189203.828"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 488
+  stamp: 
+    secs: 1545189291
+    nsecs: 431966897
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189204
+      nsecs:  31537055
+    id: "/follow_waypoints-489-1545189204.032"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 489
+  stamp: 
+    secs: 1545189291
+    nsecs: 650265734
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189291
+      nsecs: 449460983
+    id: "/follow_waypoints-490-1545189291.449"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 490
+  stamp: 
+    secs: 1545189291
+    nsecs: 852222354
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189291
+      nsecs: 651828050
+    id: "/follow_waypoints-491-1545189291.652"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 491
+  stamp: 
+    secs: 1545189292
+    nsecs:  55305594
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189291
+      nsecs: 854336023
+    id: "/follow_waypoints-492-1545189291.854"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 492
+  stamp: 
+    secs: 1545189292
+    nsecs: 257235435
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189292
+      nsecs:  56746959
+    id: "/follow_waypoints-493-1545189292.057"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 493
+  stamp: 
+    secs: 1545189292
+    nsecs: 464264925
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189292
+      nsecs: 259397983
+    id: "/follow_waypoints-494-1545189292.259"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 494
+  stamp: 
+    secs: 1545189292
+    nsecs: 669037205
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189292
+      nsecs: 468422889
+    id: "/follow_waypoints-495-1545189292.468"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 495
+  stamp: 
+    secs: 1545189292
+    nsecs: 871217034
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189292
+      nsecs: 670747041
+    id: "/follow_waypoints-496-1545189292.671"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 496
+  stamp: 
+    secs: 1545189293
+    nsecs:  73479088
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189292
+      nsecs: 873009920
+    id: "/follow_waypoints-497-1545189292.873"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 497
+  stamp: 
+    secs: 1545189293
+    nsecs: 276584263
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189293
+      nsecs:  74717044
+    id: "/follow_waypoints-498-1545189293.075"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 498
+  stamp: 
+    secs: 1545189293
+    nsecs: 479692228
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189293
+      nsecs: 278538942
+    id: "/follow_waypoints-499-1545189293.279"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 499
+  stamp: 
+    secs: 1545189293
+    nsecs: 681647381
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189293
+      nsecs: 481097936
+    id: "/follow_waypoints-500-1545189293.481"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 500
+  stamp: 
+    secs: 1545189293
+    nsecs: 884220055
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189293
+      nsecs: 683449029
+    id: "/follow_waypoints-501-1545189293.683"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 501
+  stamp: 
+    secs: 1545189294
+    nsecs:  89757784
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189293
+      nsecs: 888056039
+    id: "/follow_waypoints-502-1545189293.888"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 502
+  stamp: 
+    secs: 1545189294
+    nsecs: 291644241
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189294
+      nsecs:  91017007
+    id: "/follow_waypoints-503-1545189294.091"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 503
+  stamp: 
+    secs: 1545189294
+    nsecs: 493895341
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189294
+      nsecs: 293478012
+    id: "/follow_waypoints-504-1545189294.293"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 504
+  stamp: 
+    secs: 1545189294
+    nsecs: 696460747
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189294
+      nsecs: 495995998
+    id: "/follow_waypoints-505-1545189294.496"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 505
+  stamp: 
+    secs: 1545189294
+    nsecs: 899378374
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189294
+      nsecs: 698908090
+    id: "/follow_waypoints-506-1545189294.699"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 506
+  stamp: 
+    secs: 1545189295
+    nsecs: 101897596
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189294
+      nsecs: 900399923
+    id: "/follow_waypoints-507-1545189294.900"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 507
+  stamp: 
+    secs: 1545189295
+    nsecs: 303804048
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189295
+      nsecs: 103404045
+    id: "/follow_waypoints-508-1545189295.103"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 508
+  stamp: 
+    secs: 1545189295
+    nsecs: 506197759
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189295
+      nsecs: 305706024
+    id: "/follow_waypoints-509-1545189295.306"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 509
+  stamp: 
+    secs: 1545189295
+    nsecs: 708857963
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189295
+      nsecs: 508430957
+    id: "/follow_waypoints-510-1545189295.508"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 510
+  stamp: 
+    secs: 1545189295
+    nsecs: 911237947
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189295
+      nsecs: 710810899
+    id: "/follow_waypoints-511-1545189295.711"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 511
+  stamp: 
+    secs: 1545189296
+    nsecs: 113895074
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189295
+      nsecs: 913176059
+    id: "/follow_waypoints-512-1545189295.913"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 512
+  stamp: 
+    secs: 1545189296
+    nsecs: 315660727
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189296
+      nsecs: 115145921
+    id: "/follow_waypoints-513-1545189296.115"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 513
+  stamp: 
+    secs: 1545189296
+    nsecs: 517682031
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189296
+      nsecs: 316916942
+    id: "/follow_waypoints-514-1545189296.317"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 514
+  stamp: 
+    secs: 1545189296
+    nsecs: 719589244
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189296
+      nsecs: 519121885
+    id: "/follow_waypoints-515-1545189296.519"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 515
+  stamp: 
+    secs: 1545189296
+    nsecs: 921522726
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189296
+      nsecs: 721057891
+    id: "/follow_waypoints-516-1545189296.721"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 516
+  stamp: 
+    secs: 1545189316
+    nsecs: 725853744
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189296
+      nsecs: 923796892
+    id: "/follow_waypoints-517-1545189296.924"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 517
+  stamp: 
+    secs: 1545189316
+    nsecs: 963456544
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189316
+      nsecs: 763000965
+    id: "/follow_waypoints-518-1545189316.763"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 518
+  stamp: 
+    secs: 1545189317
+    nsecs: 166290928
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189316
+      nsecs: 965253114
+    id: "/follow_waypoints-519-1545189316.965"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 519
+  stamp: 
+    secs: 1545189317
+    nsecs: 370417662
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189317
+      nsecs: 169785976
+    id: "/follow_waypoints-520-1545189317.170"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 520
+  stamp: 
+    secs: 1545189317
+    nsecs: 572619103
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189317
+      nsecs: 372145891
+    id: "/follow_waypoints-521-1545189317.372"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 521
+  stamp: 
+    secs: 1545189317
+    nsecs: 774380353
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189317
+      nsecs: 573862075
+    id: "/follow_waypoints-522-1545189317.574"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 522
+  stamp: 
+    secs: 1545189317
+    nsecs: 977117786
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189317
+      nsecs: 776251077
+    id: "/follow_waypoints-523-1545189317.776"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 523
+  stamp: 
+    secs: 1545189318
+    nsecs: 179509365
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189317
+      nsecs: 979129076
+    id: "/follow_waypoints-524-1545189317.979"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 524
+  stamp: 
+    secs: 1545189318
+    nsecs: 383030920
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189318
+      nsecs: 182518959
+    id: "/follow_waypoints-525-1545189318.183"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 525
+  stamp: 
+    secs: 1545189318
+    nsecs: 585910190
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189318
+      nsecs: 385397911
+    id: "/follow_waypoints-526-1545189318.385"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 526
+  stamp: 
+    secs: 1545189318
+    nsecs: 787755555
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189318
+      nsecs: 587307929
+    id: "/follow_waypoints-527-1545189318.587"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 527
+  stamp: 
+    secs: 1545189318
+    nsecs: 990482602
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189318
+      nsecs: 789863109
+    id: "/follow_waypoints-528-1545189318.790"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 528
+  stamp: 
+    secs: 1545189319
+    nsecs: 193201797
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189318
+      nsecs: 992774009
+    id: "/follow_waypoints-529-1545189318.993"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 529
+  stamp: 
+    secs: 1545189319
+    nsecs: 395091854
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189319
+      nsecs: 194629907
+    id: "/follow_waypoints-530-1545189319.195"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 530
+  stamp: 
+    secs: 1545189319
+    nsecs: 597092853
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189319
+      nsecs: 396534919
+    id: "/follow_waypoints-531-1545189319.397"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 531
+  stamp: 
+    secs: 1545189319
+    nsecs: 800987590
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189319
+      nsecs: 599644899
+    id: "/follow_waypoints-532-1545189319.600"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 532
+  stamp: 
+    secs: 1545189329
+    nsecs:   5719864
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189319
+      nsecs: 803690910
+    id: "/follow_waypoints-533-1545189319.804"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 533
+  stamp: 
+    secs: 1545189329
+    nsecs: 223017533
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189329
+      nsecs:  22526025
+    id: "/follow_waypoints-534-1545189329.023"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 534
+  stamp: 
+    secs: 1545189329
+    nsecs: 424670061
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189329
+      nsecs: 224164009
+    id: "/follow_waypoints-535-1545189329.224"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 535
+  stamp: 
+    secs: 1545189329
+    nsecs: 626609295
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189329
+      nsecs: 426151990
+    id: "/follow_waypoints-536-1545189329.426"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 536
+  stamp: 
+    secs: 1545189329
+    nsecs: 828986058
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189329
+      nsecs: 628496885
+    id: "/follow_waypoints-537-1545189329.628"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 537
+  stamp: 
+    secs: 1545189330
+    nsecs:  31140763
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189329
+      nsecs: 830719947
+    id: "/follow_waypoints-538-1545189329.831"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 538
+  stamp: 
+    secs: 1545189419
+    nsecs:  32976521
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189330
+      nsecs:  32577037
+    id: "/follow_waypoints-539-1545189330.033"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 539
+  stamp: 
+    secs: 1545189422
+    nsecs:  41532534
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189419
+      nsecs:  34491062
+    id: "/follow_waypoints-540-1545189419.034"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 540
+  stamp: 
+    secs: 1545189424
+    nsecs: 443365547
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189422
+      nsecs:  42939901
+    id: "/follow_waypoints-541-1545189422.043"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 541
+  stamp: 
+    secs: 1545189426
+    nsecs: 650351836
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189424
+      nsecs: 449923038
+    id: "/follow_waypoints-542-1545189424.450"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 542
+  stamp: 
+    secs: 1545189428
+    nsecs: 855241950
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189426
+      nsecs: 654818058
+    id: "/follow_waypoints-543-1545189426.655"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 543
+  stamp: 
+    secs: 1545189431
+    nsecs:  60701154
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189428
+      nsecs: 860196113
+    id: "/follow_waypoints-544-1545189428.860"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 544
+  stamp: 
+    secs: 1545189433
+    nsecs: 265722974
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189431
+      nsecs:  65180063
+    id: "/follow_waypoints-545-1545189431.065"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 545
+  stamp: 
+    secs: 1545189435
+    nsecs: 471481568
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189433
+      nsecs: 271023988
+    id: "/follow_waypoints-546-1545189433.271"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 546
+  stamp: 
+    secs: 1545189437
+    nsecs: 676702471
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189435
+      nsecs: 476129055
+    id: "/follow_waypoints-547-1545189435.476"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 547
+  stamp: 
+    secs: 1545189439
+    nsecs: 685598544
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189437
+      nsecs: 683206081
+    id: "/follow_waypoints-548-1545189437.683"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 548
+  stamp: 
+    secs: 1545189441
+    nsecs: 688432695
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189439
+      nsecs: 687623023
+    id: "/follow_waypoints-549-1545189439.688"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 549
+  stamp: 
+    secs: 1545189443
+    nsecs: 697900417
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189441
+      nsecs: 697490930
+    id: "/follow_waypoints-550-1545189441.697"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 550
+  stamp: 
+    secs: 1545189445
+    nsecs: 704568781
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189443
+      nsecs: 704125881
+    id: "/follow_waypoints-551-1545189443.704"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 551
+  stamp: 
+    secs: 1545189459
+    nsecs: 712265288
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189445
+      nsecs: 711688995
+    id: "/follow_waypoints-552-1545189445.712"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 552
+  stamp: 
+    secs: 1545189459
+    nsecs: 945690527
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189459
+      nsecs: 739794015
+    id: "/follow_waypoints-553-1545189459.740"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 553
+  stamp: 
+    secs: 1545189460
+    nsecs: 149467216
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189459
+      nsecs: 948312044
+    id: "/follow_waypoints-554-1545189459.948"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 554
+  stamp: 
+    secs: 1545189460
+    nsecs: 353515187
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189460
+      nsecs: 152966976
+    id: "/follow_waypoints-555-1545189460.153"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 555
+  stamp: 
+    secs: 1545189460
+    nsecs: 555947310
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189460
+      nsecs: 355433940
+    id: "/follow_waypoints-556-1545189460.355"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 556
+  stamp: 
+    secs: 1545189471
+    nsecs: 558691057
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189460
+      nsecs: 558211088
+    id: "/follow_waypoints-557-1545189460.558"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 557
+  stamp: 
+    secs: 1545189471
+    nsecs: 784957210
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189471
+      nsecs: 584306001
+    id: "/follow_waypoints-558-1545189471.584"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 558
+  stamp: 
+    secs: 1545189471
+    nsecs: 987608649
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189471
+      nsecs: 787154912
+    id: "/follow_waypoints-559-1545189471.787"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 559
+  stamp: 
+    secs: 1545189472
+    nsecs: 191413056
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189471
+      nsecs: 989739894
+    id: "/follow_waypoints-560-1545189471.990"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 560
+  stamp: 
+    secs: 1545189472
+    nsecs: 395273855
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189472
+      nsecs: 194329023
+    id: "/follow_waypoints-561-1545189472.194"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 561
+  stamp: 
+    secs: 1545189472
+    nsecs: 599147564
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189472
+      nsecs: 397186040
+    id: "/follow_waypoints-562-1545189472.397"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 562
+  stamp: 
+    secs: 1545189472
+    nsecs: 802220428
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189472
+      nsecs: 601701021
+    id: "/follow_waypoints-563-1545189472.602"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 563
+  stamp: 
+    secs: 1545189473
+    nsecs:   7899635
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189472
+      nsecs: 807312965
+    id: "/follow_waypoints-564-1545189472.807"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 564
+  stamp: 
+    secs: 1545189473
+    nsecs: 211042396
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189473
+      nsecs:  10596036
+    id: "/follow_waypoints-565-1545189473.011"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 565
+  stamp: 
+    secs: 1545189485
+    nsecs: 413281389
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189473
+      nsecs: 212862014
+    id: "/follow_waypoints-566-1545189473.213"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 566
+  stamp: 
+    secs: 1545189485
+    nsecs: 641667075
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189485
+      nsecs: 441149950
+    id: "/follow_waypoints-567-1545189485.441"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 567
+  stamp: 
+    secs: 1545189485
+    nsecs: 843929325
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189485
+      nsecs: 643421888
+    id: "/follow_waypoints-568-1545189485.643"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 568
+  stamp: 
+    secs: 1545189486
+    nsecs:  46167580
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189485
+      nsecs: 845664024
+    id: "/follow_waypoints-569-1545189485.846"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 569
+  stamp: 
+    secs: 1545189486
+    nsecs: 248988655
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189486
+      nsecs:  48458099
+    id: "/follow_waypoints-570-1545189486.048"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 570
+  stamp: 
+    secs: 1545189486
+    nsecs: 451304486
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189486
+      nsecs: 250566005
+    id: "/follow_waypoints-571-1545189486.251"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 571
+  stamp: 
+    secs: 1545189486
+    nsecs: 654878934
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189486
+      nsecs: 454058885
+    id: "/follow_waypoints-572-1545189486.454"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 572
+  stamp: 
+    secs: 1545189486
+    nsecs: 857110582
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189486
+      nsecs: 656603097
+    id: "/follow_waypoints-573-1545189486.657"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 573
+  stamp: 
+    secs: 1545189487
+    nsecs:  60124213
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189486
+      nsecs: 859621047
+    id: "/follow_waypoints-574-1545189486.860"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 574
+  stamp: 
+    secs: 1545189487
+    nsecs: 262599663
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189487
+      nsecs:  62139987
+    id: "/follow_waypoints-575-1545189487.062"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 575
+  stamp: 
+    secs: 1545189487
+    nsecs: 464306033
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189487
+      nsecs: 263834953
+    id: "/follow_waypoints-576-1545189487.264"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 576
+  stamp: 
+    secs: 1545189487
+    nsecs: 667846430
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189487
+      nsecs: 467185020
+    id: "/follow_waypoints-577-1545189487.467"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 577
+  stamp: 
+    secs: 1545189487
+    nsecs: 870212592
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189487
+      nsecs: 669783115
+    id: "/follow_waypoints-578-1545189487.670"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 578
+  stamp: 
+    secs: 1545189488
+    nsecs:  72076975
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189487
+      nsecs: 871562004
+    id: "/follow_waypoints-579-1545189487.872"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 579
+  stamp: 
+    secs: 1545189488
+    nsecs: 273909517
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189488
+      nsecs:  73374032
+    id: "/follow_waypoints-580-1545189488.073"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 580
+  stamp: 
+    secs: 1545189488
+    nsecs: 477666394
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189488
+      nsecs: 275988101
+    id: "/follow_waypoints-581-1545189488.276"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 581
+  stamp: 
+    secs: 1545189488
+    nsecs: 680924964
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189488
+      nsecs: 480437040
+    id: "/follow_waypoints-582-1545189488.480"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 582
+  stamp: 
+    secs: 1545189488
+    nsecs: 883005109
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189488
+      nsecs: 682610988
+    id: "/follow_waypoints-583-1545189488.683"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 583
+  stamp: 
+    secs: 1545189489
+    nsecs:  86809494
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189488
+      nsecs: 886348009
+    id: "/follow_waypoints-584-1545189488.886"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 584
+  stamp: 
+    secs: 1545189489
+    nsecs: 289818939
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189489
+      nsecs:  89371919
+    id: "/follow_waypoints-585-1545189489.089"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 585
+  stamp: 
+    secs: 1545189489
+    nsecs: 493212104
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189489
+      nsecs: 292507886
+    id: "/follow_waypoints-586-1545189489.293"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 586
+  stamp: 
+    secs: 1545189489
+    nsecs: 695405947
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189489
+      nsecs: 494815111
+    id: "/follow_waypoints-587-1545189489.495"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 587
+  stamp: 
+    secs: 1545189489
+    nsecs: 898426315
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189489
+      nsecs: 697467088
+    id: "/follow_waypoints-588-1545189489.697"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 588
+  stamp: 
+    secs: 1545189490
+    nsecs: 100381896
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189489
+      nsecs: 899836063
+    id: "/follow_waypoints-589-1545189489.900"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 589
+  stamp: 
+    secs: 1545189490
+    nsecs: 302679443
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189490
+      nsecs: 102190971
+    id: "/follow_waypoints-590-1545189490.102"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 590
+  stamp: 
+    secs: 1545189490
+    nsecs: 504546341
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189490
+      nsecs: 303828954
+    id: "/follow_waypoints-591-1545189490.304"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 591
+  stamp: 
+    secs: 1545189490
+    nsecs: 706698491
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189490
+      nsecs: 506200075
+    id: "/follow_waypoints-592-1545189490.506"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 592
+  stamp: 
+    secs: 1545189490
+    nsecs: 909339920
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189490
+      nsecs: 708825111
+    id: "/follow_waypoints-593-1545189490.709"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 593
+  stamp: 
+    secs: 1545189491
+    nsecs: 111029909
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189490
+      nsecs: 910614013
+    id: "/follow_waypoints-594-1545189490.911"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 594
+  stamp: 
+    secs: 1545189491
+    nsecs: 312581958
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189491
+      nsecs: 112152099
+    id: "/follow_waypoints-595-1545189491.112"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 595
+  stamp: 
+    secs: 1545189491
+    nsecs: 515172805
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189491
+      nsecs: 314618110
+    id: "/follow_waypoints-596-1545189491.315"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 596
+  stamp: 
+    secs: 1545189491
+    nsecs: 716797192
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189491
+      nsecs: 516371965
+    id: "/follow_waypoints-597-1545189491.516"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 597
+  stamp: 
+    secs: 1545189491
+    nsecs: 918910516
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189491
+      nsecs: 718372106
+    id: "/follow_waypoints-598-1545189491.718"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 598
+  stamp: 
+    secs: 1545189492
+    nsecs: 122008426
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189491
+      nsecs: 920754909
+    id: "/follow_waypoints-599-1545189491.921"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 599
+  stamp: 
+    secs: 1545189492
+    nsecs: 323658437
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189492
+      nsecs: 123246908
+    id: "/follow_waypoints-600-1545189492.123"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 600
+  stamp: 
+    secs: 1545189492
+    nsecs: 527031700
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189492
+      nsecs: 326020002
+    id: "/follow_waypoints-601-1545189492.326"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 601
+  stamp: 
+    secs: 1545189509
+    nsecs: 329145154
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189492
+      nsecs: 528343915
+    id: "/follow_waypoints-602-1545189492.528"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 602
+  stamp: 
+    secs: 1545189509
+    nsecs: 561640415
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189509
+      nsecs: 361057043
+    id: "/follow_waypoints-603-1545189509.361"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 603
+  stamp: 
+    secs: 1545189509
+    nsecs: 764019607
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189509
+      nsecs: 563481092
+    id: "/follow_waypoints-604-1545189509.563"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 604
+  stamp: 
+    secs: 1545189509
+    nsecs: 965806122
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189509
+      nsecs: 765213966
+    id: "/follow_waypoints-605-1545189509.765"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 605
+  stamp: 
+    secs: 1545189510
+    nsecs: 169261227
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189509
+      nsecs: 967624902
+    id: "/follow_waypoints-606-1545189509.968"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 606
+  stamp: 
+    secs: 1545189510
+    nsecs: 372250484
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189510
+      nsecs: 171804904
+    id: "/follow_waypoints-607-1545189510.172"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 607
+  stamp: 
+    secs: 1545189510
+    nsecs: 575103424
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189510
+      nsecs: 374418973
+    id: "/follow_waypoints-608-1545189510.374"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 608
+  stamp: 
+    secs: 1545189510
+    nsecs: 778866268
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189510
+      nsecs: 577007055
+    id: "/follow_waypoints-609-1545189510.577"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 609
+  stamp: 
+    secs: 1545189510
+    nsecs: 982016158
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189510
+      nsecs: 781265974
+    id: "/follow_waypoints-610-1545189510.781"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 610
+  stamp: 
+    secs: 1545189511
+    nsecs: 184413815
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189510
+      nsecs: 983669996
+    id: "/follow_waypoints-611-1545189510.984"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 611
+  stamp: 
+    secs: 1545189511
+    nsecs: 387335974
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189511
+      nsecs: 186702966
+    id: "/follow_waypoints-612-1545189511.187"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 612
+  stamp: 
+    secs: 1545189511
+    nsecs: 590211128
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189511
+      nsecs: 389780998
+    id: "/follow_waypoints-613-1545189511.390"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 613
+  stamp: 
+    secs: 1545189511
+    nsecs: 793855448
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189511
+      nsecs: 593421936
+    id: "/follow_waypoints-614-1545189511.593"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 614
+  stamp: 
+    secs: 1545189511
+    nsecs: 996119810
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189511
+      nsecs: 795468091
+    id: "/follow_waypoints-615-1545189511.795"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 615
+  stamp: 
+    secs: 1545189512
+    nsecs: 198720496
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189511
+      nsecs: 997586011
+    id: "/follow_waypoints-616-1545189511.998"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 616
+  stamp: 
+    secs: 1545189512
+    nsecs: 400804338
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189512
+      nsecs: 200288057
+    id: "/follow_waypoints-617-1545189512.200"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 617
+  stamp: 
+    secs: 1545189512
+    nsecs: 602884700
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189512
+      nsecs: 402436017
+    id: "/follow_waypoints-618-1545189512.402"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 618
+  stamp: 
+    secs: 1545189528
+    nsecs: 204669309
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189512
+      nsecs: 604146003
+    id: "/follow_waypoints-619-1545189512.604"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 619
+  stamp: 
+    secs: 1545189528
+    nsecs: 433102389
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189528
+      nsecs: 232623100
+    id: "/follow_waypoints-620-1545189528.233"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 620
+  stamp: 
+    secs: 1545189528
+    nsecs: 638193301
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189528
+      nsecs: 435854911
+    id: "/follow_waypoints-621-1545189528.436"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 621
+  stamp: 
+    secs: 1545189598
+    nsecs: 240529444
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189528
+      nsecs: 640113115
+    id: "/follow_waypoints-622-1545189528.640"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 622
+  stamp: 
+    secs: 1545189598
+    nsecs: 473542366
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189598
+      nsecs: 272948026
+    id: "/follow_waypoints-623-1545189598.273"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 623
+  stamp: 
+    secs: 1545189598
+    nsecs: 675913036
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189598
+      nsecs: 475389003
+    id: "/follow_waypoints-624-1545189598.475"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 624
+  stamp: 
+    secs: 1545189598
+    nsecs: 878927241
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189598
+      nsecs: 677145957
+    id: "/follow_waypoints-625-1545189598.677"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 625
+  stamp: 
+    secs: 1545189599
+    nsecs:  83022195
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189598
+      nsecs: 882544040
+    id: "/follow_waypoints-626-1545189598.883"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 626
+  stamp: 
+    secs: 1545189599
+    nsecs: 284847549
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189599
+      nsecs:  84431886
+    id: "/follow_waypoints-627-1545189599.084"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 627
+  stamp: 
+    secs: 1545189599
+    nsecs: 489464246
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189599
+      nsecs: 289028882
+    id: "/follow_waypoints-628-1545189599.289"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 628
+  stamp: 
+    secs: 1545189599
+    nsecs: 691534794
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189599
+      nsecs: 490802049
+    id: "/follow_waypoints-629-1545189599.491"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 629
+  stamp: 
+    secs: 1545189599
+    nsecs: 894094564
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189599
+      nsecs: 693494081
+    id: "/follow_waypoints-630-1545189599.693"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 630
+  stamp: 
+    secs: 1545189600
+    nsecs:  96574796
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189599
+      nsecs: 895978927
+    id: "/follow_waypoints-631-1545189599.896"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 631
+  stamp: 
+    secs: 1545189600
+    nsecs: 299186907
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189600
+      nsecs:  98678112
+    id: "/follow_waypoints-632-1545189600.099"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 632
+  stamp: 
+    secs: 1545189600
+    nsecs: 500753301
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189600
+      nsecs: 300259113
+    id: "/follow_waypoints-633-1545189600.300"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 633
+  stamp: 
+    secs: 1545189600
+    nsecs: 703042979
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189600
+      nsecs: 502376079
+    id: "/follow_waypoints-634-1545189600.502"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 634
+  stamp: 
+    secs: 1545189600
+    nsecs: 905273147
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189600
+      nsecs: 704736948
+    id: "/follow_waypoints-635-1545189600.705"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 635
+  stamp: 
+    secs: 1545189601
+    nsecs: 108895745
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189600
+      nsecs: 907219886
+    id: "/follow_waypoints-636-1545189600.907"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 636
+  stamp: 
+    secs: 1545189601
+    nsecs: 315276363
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189601
+      nsecs: 114423990
+    id: "/follow_waypoints-637-1545189601.114"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 637
+  stamp: 
+    secs: 1545189601
+    nsecs: 519444087
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189601
+      nsecs: 319014072
+    id: "/follow_waypoints-638-1545189601.319"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 638
+  stamp: 
+    secs: 1545189601
+    nsecs: 721806101
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189601
+      nsecs: 520601987
+    id: "/follow_waypoints-639-1545189601.521"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 639
+  stamp: 
+    secs: 1545189601
+    nsecs: 924072444
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189601
+      nsecs: 723351955
+    id: "/follow_waypoints-640-1545189601.723"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 640
+  stamp: 
+    secs: 1545189602
+    nsecs: 126169145
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189601
+      nsecs: 925745010
+    id: "/follow_waypoints-641-1545189601.926"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 641
+  stamp: 
+    secs: 1545189602
+    nsecs: 327809880
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189602
+      nsecs: 127263069
+    id: "/follow_waypoints-642-1545189602.127"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 642
+  stamp: 
+    secs: 1545189602
+    nsecs: 530905356
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189602
+      nsecs: 330418109
+    id: "/follow_waypoints-643-1545189602.330"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 643
+  stamp: 
+    secs: 1545189602
+    nsecs: 733109634
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189602
+      nsecs: 532608032
+    id: "/follow_waypoints-644-1545189602.533"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 644
+  stamp: 
+    secs: 1545189602
+    nsecs: 935666989
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189602
+      nsecs: 735061883
+    id: "/follow_waypoints-645-1545189602.735"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 645
+  stamp: 
+    secs: 1545189603
+    nsecs: 138430537
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189602
+      nsecs: 937824964
+    id: "/follow_waypoints-646-1545189602.938"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 646
+  stamp: 
+    secs: 1545189603
+    nsecs: 340452928
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189603
+      nsecs: 139796018
+    id: "/follow_waypoints-647-1545189603.140"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 647
+  stamp: 
+    secs: 1545189603
+    nsecs: 543699600
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189603
+      nsecs: 342490911
+    id: "/follow_waypoints-648-1545189603.342"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
+header: 
+  seq: 648
+  stamp: 
+    secs: 1545189603
+    nsecs: 745643827
+  frame_id: ''
+status: 
+  goal_id: 
+    stamp: 
+      secs: 1545189603
+      nsecs: 545133113
+    id: "/follow_waypoints-649-1545189603.545"
+  status: 3
+  text: "Goal reached."
+result: 
+
+---
