@@ -1,0 +1,3 @@
+/home/husky/EvoBinoSDK-Samples/SampleWithOpenCV/src/build/CMakeFiles/edit_cache.dir
+/home/husky/EvoBinoSDK-Samples/SampleWithOpenCV/src/build/CMakeFiles/rebuild_cache.dir
+/home/husky/EvoBinoSDK-Samples/SampleWithOpenCV/src/build/CMakeFiles/SampleWithOpenCV.dir

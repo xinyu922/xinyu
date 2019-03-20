@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="SampleTemp" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\usr\local\EvoBinoSDK\;CMake Files\..\..\..\..\..\opt\;CMake Files\..\..\..\..\..\opt\ros\;CMake Files\..\..\..\..\..\opt\ros\kinetic\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\OpenCV-3.3.1-dev\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="SampleTemp">
+         <Option output="/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build/SampleTemp" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev" />
+            <Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/EvoBinoSDK/include" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build/Makefile&quot;  VERBOSE=1 SampleTemp" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="SampleTemp/fast">
+         <Option output="/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build/SampleTemp" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev" />
+            <Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/EvoBinoSDK/include" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build/Makefile&quot;  VERBOSE=1 SampleTemp/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="MarkerDetection">
+         <Option output="/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build/libMarkerDetection.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev" />
+            <Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/EvoBinoSDK/include" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build/Makefile&quot;  VERBOSE=1 MarkerDetection" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="MarkerDetection/fast">
+         <Option output="/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build/libMarkerDetection.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev" />
+            <Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/EvoBinoSDK/include" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build/Makefile&quot;  VERBOSE=1 MarkerDetection/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/home/husky/EvoBinoSDK-Samples/SampleTemp/src/MarkerCommon.h">
+         <Option target="SampleTemp"/>
+      </Unit>
+      <Unit filename="/home/husky/EvoBinoSDK-Samples/SampleTemp/src/MarkerDetection.cpp">
+         <Option target="SampleTemp"/>
+         <Option target="MarkerDetection"/>
+      </Unit>
+      <Unit filename="/home/husky/EvoBinoSDK-Samples/SampleTemp/src/MarkerDetection.h">
+         <Option target="SampleTemp"/>
+      </Unit>
+      <Unit filename="/home/husky/EvoBinoSDK-Samples/SampleTemp/src/temp.cpp">
+         <Option target="SampleTemp"/>
+      </Unit>
+      <Unit filename="/home/husky/EvoBinoSDK-Samples/SampleTemp/src/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="/home/husky/EvoBinoSDK-Samples/SampleTemp/src/../../../../../usr/local/EvoBinoSDK/EvoBinoSDKConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\EvoBinoSDK\" />
+      </Unit>
+      <Unit filename="/home/husky/EvoBinoSDK-Samples/SampleTemp/src/../../../../../usr/local/EvoBinoSDK/EvoBinoSDKConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\EvoBinoSDK\" />
+      </Unit>
+      <Unit filename="/home/husky/EvoBinoSDK-Samples/SampleTemp/src/../../../../../opt/ros/kinetic/share/OpenCV-3.3.1-dev/OpenCVConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\kinetic\share\OpenCV-3.3.1-dev\" />
+      </Unit>
+      <Unit filename="/home/husky/EvoBinoSDK-Samples/SampleTemp/src/../../../../../opt/ros/kinetic/share/OpenCV-3.3.1-dev/OpenCVConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\kinetic\share\OpenCV-3.3.1-dev\" />
+      </Unit>
+      <Unit filename="/home/husky/EvoBinoSDK-Samples/SampleTemp/src/../../../../../opt/ros/kinetic/share/OpenCV-3.3.1-dev/OpenCVModules.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\kinetic\share\OpenCV-3.3.1-dev\" />
+      </Unit>
+      <Unit filename="/home/husky/EvoBinoSDK-Samples/SampleTemp/src/../../../../../opt/ros/kinetic/share/OpenCV-3.3.1-dev/OpenCVModules-release.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\kinetic\share\OpenCV-3.3.1-dev\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>

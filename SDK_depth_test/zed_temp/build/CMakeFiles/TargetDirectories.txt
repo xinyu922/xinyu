@@ -1,0 +1,4 @@
+/home/husky/ws/zed/zed_temp/build/CMakeFiles/edit_cache.dir
+/home/husky/ws/zed/zed_temp/build/CMakeFiles/rebuild_cache.dir
+/home/husky/ws/zed/zed_temp/build/CMakeFiles/zedtemp.dir
+/home/husky/ws/zed/zed_temp/build/CMakeFiles/markerDetection.dir

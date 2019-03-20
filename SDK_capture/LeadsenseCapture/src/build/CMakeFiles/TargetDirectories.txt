@@ -1,0 +1,3 @@
+/home/dzsb078/ws/SDK_capture/LeadsenseCapture/src/build/CMakeFiles/rebuild_cache.dir
+/home/dzsb078/ws/SDK_capture/LeadsenseCapture/src/build/CMakeFiles/edit_cache.dir
+/home/dzsb078/ws/SDK_capture/LeadsenseCapture/src/build/CMakeFiles/Leadsense_Capture.dir

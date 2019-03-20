@@ -1,0 +1,4 @@
+/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build/CMakeFiles/edit_cache.dir
+/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build/CMakeFiles/SampleTemp.dir
+/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build/CMakeFiles/rebuild_cache.dir
+/home/husky/EvoBinoSDK-Samples/SampleTemp/src-build/CMakeFiles/MarkerDetection.dir

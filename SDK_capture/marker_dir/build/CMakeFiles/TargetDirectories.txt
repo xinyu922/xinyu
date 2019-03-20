@@ -1,0 +1,2 @@
+/home/dzsb078/ws/SDK_capture/marker_dir/build/CMakeFiles/edit_cache.dir
+/home/dzsb078/ws/SDK_capture/marker_dir/build/CMakeFiles/rebuild_cache.dir
