@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<launch>
+  <!-- Run the map server -->
+  <arg name="map_file" default="$(find demo_display)/maps/my_map.yaml"/>
+  <arg name="server" default="192.168.1.112"/>
+
+  <!--node name="rviz" pkg="rviz" type="rviz" args="-d /home/ubuntu/.rviz/demo.rviz" required="true" /--> 
+  <node name="map_server" pkg="map_server" type="map_server" args="$(arg map_file)" />
+  <node pkg="vis_marker" name="show_err_msg" type="show_err_msg.py" output="screen"/>
+  <node pkg="vis_marker" name="husky_mark_show" type="husky_mark_show" output="screen"/>
+  <node pkg="vis_marker" name="vo_mark_show" type="vo_mark_show" output="screen"/>
+  <node pkg="connection" name="server" type="server.py" output="screen"/> 
+  <node pkg="vrpn2gmapping" name="readAndPub" type="readAndPub" output="screen"/> 
+  <node pkg="vis_marker" name="pub_camshow_tf" type="pub_camshow_tf" output="screen"/> 
+  <include file="$(find ar_pose)/launch/ar_pose_multi_zed.launch"/>
+  <node pkg="vrpn_client_ros" type="vrpn_client_node" name="vrpn_client_node" output="screen">
+    <rosparam subst_value="true">
+      server: $(arg server)
+      port: 3883
+
+      update_frequency: 100.0
+      frame_id: world
+
+      # Use the VRPN server's time, or the client's ROS time.
+      use_server_time: false
+      broadcast_tf: true
+
+      # Must either specify refresh frequency > 0.0, or a list of trackers to create
+      refresh_tracker_frequency: 1.0
+      #trackers:
+      #- FirstTracker
+      #- SecondTracker
+    </rosparam>
+  </node>
+</launch>

@@ -1,0 +1,6 @@
+1.husky_package_backup为husky配置备份
+2.其他文件夹为ROS包，使用时copy到ros工作空间下，使用catkin_make编译
+3.husky.urdf.xacro为demo展示时urdf文件，如果配置新电脑需要copy到husky_description/文件夹下
+4.注意connection文件夹下husky_sender_new.py内ip地址与display接收的ip地址保持已知
+5.注意demo_launch.launch文件中vrpn server地址
+6.运行roslaunch demo_launch demo_launch.launch即可运行
