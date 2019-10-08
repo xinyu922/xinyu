@@ -12,7 +12,7 @@ roll = pitch = yaw = 0.0
 def extract(bagfile, pose_topic, msg_type, out_filename):
     n = 0
     f = open(out_filename, 'w')
-    f.write('# timestamp x y z yaw roll pitch\n')
+    f.write('timestamp,x,y,z,roll,pitch,yaw\n')
     with rosbag.Bag(bagfile, 'r') as bag:
         for (topic, msg, ts) in bag.read_messages(topics=str(pose_topic)):
             if msg_type == "geometry_msgs/PoseStamped":
