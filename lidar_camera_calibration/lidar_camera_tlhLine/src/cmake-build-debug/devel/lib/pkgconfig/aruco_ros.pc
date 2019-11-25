@@ -1,0 +1,8 @@
+prefix=/home/taolihao/lidar_camera_tlhLine/src/cmake-build-debug/devel
+
+Name: aruco_ros
+Description: Description of aruco_ros
+Version: 0.2.0
+Cflags: -I/home/taolihao/lidar_camera_tlhLine/src/cmake-build-debug/devel/include -I/home/taolihao/lidar_camera_tlhLine/src/aruco_ros/aruco_ros/include
+Libs: -L/home/taolihao/lidar_camera_tlhLine/src/cmake-build-debug/devel/lib -laruco
+Requires: 

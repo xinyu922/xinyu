@@ -1,0 +1,8 @@
+prefix=/home/taolihao/lidar_camera_tlhLine/src/cmake-build-debug/devel
+
+Name: lidar_camera_calibration
+Description: Description of lidar_camera_calibration
+Version: 0.0.1
+Cflags: -I/home/taolihao/lidar_camera_tlhLine/src/cmake-build-debug/devel/include
+Libs: -L/home/taolihao/lidar_camera_tlhLine/src/cmake-build-debug/devel/lib 
+Requires: std_msgs

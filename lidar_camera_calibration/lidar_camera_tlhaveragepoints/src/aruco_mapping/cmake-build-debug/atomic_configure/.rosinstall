@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/taolihao/catkin_lidar_camera/src/aruco_mapping/cmake-build-debug/devel/setup.sh

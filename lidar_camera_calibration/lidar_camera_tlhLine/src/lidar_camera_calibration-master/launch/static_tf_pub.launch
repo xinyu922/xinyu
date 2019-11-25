@@ -1,0 +1,18 @@
+<launch>
+    <!-- <node pkg="tf" type="static_transform_publisher" name="static_transform_publisher" args="-0.0953995 -0.0642954 -0.00904018 2.90703 -1.49931 -1.33378 zed_left_camera_optical_frame velodyne 100"/> -->
+    <!-- <node pkg="tf" type="static_transform_publisher" name="static_transform_publisher" args="-0.142929 -0.0249784 0.0126568 0.855347 -1.63772 0.724403 zed_left_camera_optical_frame velodyne 100"/> 
+-0.17040599882602692 0.021036000922322273 0.0 0.0 0.0-->
+    <!-- <node pkg="tf" type="static_transform_publisher" name="static_transform_publisher" args="-0.13994 -0.0225753 0.0133537 0.881638 -1.64308 0.693889 zed_left_camera_optical_frame velodyne 100"/> -->
+   <!--<node pkg="tf" type="static_transform_publisher" name="static_transform_publisher" args="-0.0121382 -0.178853 -0.132694 2.03685 -1.55661 -0.462001 zed_left_camera_optical_frame velodyne 100"/>-->
+<!--<node pkg="tf" type="static_transform_publisher" name="static_transform_publisher" args="-0.0938977 -0.132442 -0.124831 2.61003 -1.60136 -1.04605 zed_left_camera_optical_frame velodyne 100"/>-->
+
+
+
+<!--<node pkg="tf" type="static_transform_publisher" name="static_transform_publisher" args="0.0610677 -0.102413 -0.126649 2.4996 -1.59785 -0.929731 zed_left_camera_optical_frame velodyne 100"/>-->
+
+
+<!--<node pkg="tf" type="static_transform_publisher" name="static_transform_publisher" args="0.0645756 -0.12209 -0.125945 2.95423 1.52449 -1.75563 zed_left_camera_optical_frame velodyne 100"/>-->
+<!--<node pkg="tf" type="static_transform_publisher" name="static_transform_publisher" args="0.0405348 -0.157211 -0.118687 1.29238 -1.52508 0.262682 camera_color_optical_frame velodyne 100"/>-->
+<!--node pkg="tf" type="static_transform_publisher" name="static_transform_publisher" args="0.0678178 -0.137438 -0.1162 0.116035 1.61352 1.68434 zed_left_camera_optical_frame velodyne 100"/-->
+<node pkg="tf" type="static_transform_publisher" name="static_transform_publisher" args="0.378908 -0.140044 0.143017 3.063 -1.08575 -1.47318 camera_color_optical_frame velodyne 100"/>
+</launch>    

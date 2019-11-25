@@ -1,0 +1,8 @@
+prefix=/home/taolihao/lidar_camera_tlhLine/src/cmake-build-debug/devel
+
+Name: aruco_mapping
+Description: Description of aruco_mapping
+Version: 1.0.4
+Cflags: -I/home/taolihao/lidar_camera_tlhLine/src/aruco_mapping/include
+Libs: -L/home/taolihao/lidar_camera_tlhLine/src/cmake-build-debug/devel/lib 
+Requires: 

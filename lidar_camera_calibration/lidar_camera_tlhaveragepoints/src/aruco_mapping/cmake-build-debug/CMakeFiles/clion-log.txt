@@ -1,0 +1,36 @@
+/home/taolihao/Downloads/clion-2019.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/taolihao/catkin_lidar_camera/src/aruco_mapping
+-- Using CATKIN_DEVEL_PREFIX: /home/taolihao/catkin_lidar_camera/src/aruco_mapping/cmake-build-debug/devel
+-- Using CMAKE_PREFIX_PATH: 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python
+-- Using Debian Python package layout
+-- Using empy: /usr/bin/empy
+-- Using CATKIN_ENABLE_TESTING: ON
+-- Call enable_testing()
+-- Using CATKIN_TEST_RESULTS_DIR: /home/taolihao/catkin_lidar_camera/src/aruco_mapping/cmake-build-debug/test_results
+-- Found gmock sources under '/usr/src/gmock': gmock will be built
+-- Found gtest sources under '/usr/src/gmock': gtests will be built
+-- Using Python nosetests: /usr/bin/nosetests-2.7
+-- catkin 0.7.18
+-- BUILD_SHARED_LIBS is on
+CMake Error at /home/taolihao/ros_ws/roscpp_ws/devel/share/roscpp_traits/cmake/roscpp_traitsConfig.cmake:174 (find_package):
+  Could not find a package configuration file provided by "rostime" with any
+  of the following names:
+
+    rostimeConfig.cmake
+    rostime-config.cmake
+
+  Add the installation prefix of "rostime" to CMAKE_PREFIX_PATH or set
+  "rostime_DIR" to a directory containing one of the above files.  If
+  "rostime" provides a separate development package or SDK, be sure it has
+  been installed.
+Call Stack (most recent call first):
+  /home/taolihao/ros_ws/roscpp_ws/devel/share/roscpp_serialization/cmake/roscpp_serializationConfig.cmake:174 (find_package)
+  /opt/ros/kinetic/share/message_runtime/cmake/message_runtimeConfig.cmake:174 (find_package)
+  /home/taolihao/ros_ws/roscommon_ws/devel/share/roscpp/cmake/roscppConfig.cmake:174 (find_package)
+  /usr/local/share/catkin/cmake/catkinConfig.cmake:76 (find_package)
+  CMakeLists.txt:12 (find_package)
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/taolihao/catkin_lidar_camera/src/aruco_mapping/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/home/taolihao/catkin_lidar_camera/src/aruco_mapping/cmake-build-debug/CMakeFiles/CMakeError.log".

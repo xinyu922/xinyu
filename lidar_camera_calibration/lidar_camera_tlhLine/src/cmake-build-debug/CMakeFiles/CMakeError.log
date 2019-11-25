@@ -1,0 +1,110 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/taolihao/lidar_camera_tlhLine/src/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_994e6/fast"
+/usr/bin/make -f CMakeFiles/cmTC_994e6.dir/build.make CMakeFiles/cmTC_994e6.dir/build
+make[1]: Entering directory '/home/taolihao/lidar_camera_tlhLine/src/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_994e6.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_994e6.dir/CheckSymbolExists.c.o   -c /home/taolihao/lidar_camera_tlhLine/src/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_994e6
+/home/taolihao/Downloads/clion-2019.1/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_994e6.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_994e6.dir/CheckSymbolExists.c.o  -o cmTC_994e6 
+CMakeFiles/cmTC_994e6.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0x16): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_994e6.dir/build.make:86: recipe for target 'cmTC_994e6' failed
+make[1]: *** [cmTC_994e6] Error 1
+make[1]: Leaving directory '/home/taolihao/lidar_camera_tlhLine/src/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:121: recipe for target 'cmTC_994e6/fast' failed
+make: *** [cmTC_994e6/fast] Error 2
+
+File /home/taolihao/lidar_camera_tlhLine/src/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/taolihao/lidar_camera_tlhLine/src/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_bf626/fast"
+/usr/bin/make -f CMakeFiles/cmTC_bf626.dir/build.make CMakeFiles/cmTC_bf626.dir/build
+make[1]: Entering directory '/home/taolihao/lidar_camera_tlhLine/src/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_bf626.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_bf626.dir/CheckFunctionExists.c.o   -c /home/taolihao/Downloads/clion-2019.1/bin/cmake/linux/share/cmake-3.13/Modules/CheckFunctionExists.c
+Linking C executable cmTC_bf626
+/home/taolihao/Downloads/clion-2019.1/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_bf626.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_bf626.dir/CheckFunctionExists.c.o  -o cmTC_bf626 -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_bf626.dir/build.make:86: recipe for target 'cmTC_bf626' failed
+make[1]: *** [cmTC_bf626] Error 1
+make[1]: Leaving directory '/home/taolihao/lidar_camera_tlhLine/src/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:121: recipe for target 'cmTC_bf626/fast' failed
+make: *** [cmTC_bf626/fast] Error 2
+
+
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/taolihao/lidar_camera_tlhLine/src/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_717a7/fast"
+/usr/bin/make -f CMakeFiles/cmTC_717a7.dir/build.make CMakeFiles/cmTC_717a7.dir/build
+make[1]: Entering directory '/home/taolihao/lidar_camera_tlhLine/src/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_717a7.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_717a7.dir/CheckSymbolExists.c.o   -c /home/taolihao/lidar_camera_tlhLine/src/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_717a7
+/home/taolihao/Downloads/clion-2019.1/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_717a7.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_717a7.dir/CheckSymbolExists.c.o  -o cmTC_717a7 
+CMakeFiles/cmTC_717a7.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0x16): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_717a7.dir/build.make:86: recipe for target 'cmTC_717a7' failed
+make[1]: *** [cmTC_717a7] Error 1
+make[1]: Leaving directory '/home/taolihao/lidar_camera_tlhLine/src/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:121: recipe for target 'cmTC_717a7/fast' failed
+make: *** [cmTC_717a7/fast] Error 2
+
+File /home/taolihao/lidar_camera_tlhLine/src/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/taolihao/lidar_camera_tlhLine/src/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_82671/fast"
+/usr/bin/make -f CMakeFiles/cmTC_82671.dir/build.make CMakeFiles/cmTC_82671.dir/build
+make[1]: Entering directory '/home/taolihao/lidar_camera_tlhLine/src/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_82671.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_82671.dir/CheckFunctionExists.c.o   -c /home/taolihao/Downloads/clion-2019.1/bin/cmake/linux/share/cmake-3.13/Modules/CheckFunctionExists.c
+Linking C executable cmTC_82671
+/home/taolihao/Downloads/clion-2019.1/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_82671.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_82671.dir/CheckFunctionExists.c.o  -o cmTC_82671 -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_82671.dir/build.make:86: recipe for target 'cmTC_82671' failed
+make[1]: *** [cmTC_82671] Error 1
+make[1]: Leaving directory '/home/taolihao/lidar_camera_tlhLine/src/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:121: recipe for target 'cmTC_82671/fast' failed
+make: *** [cmTC_82671/fast] Error 2
+
+

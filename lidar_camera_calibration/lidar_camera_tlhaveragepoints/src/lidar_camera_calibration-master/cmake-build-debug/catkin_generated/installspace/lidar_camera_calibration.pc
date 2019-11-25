@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: lidar_camera_calibration
+Description: Description of lidar_camera_calibration
+Version: 0.0.1
+Cflags: -I/usr/local/include
+Libs: -L/usr/local/lib 
+Requires: std_msgs

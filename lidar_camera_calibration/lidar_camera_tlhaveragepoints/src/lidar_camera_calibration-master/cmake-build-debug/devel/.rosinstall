@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/taolihao/catkin_lidar_camera/src/lidar_camera_calibration-master/cmake-build-debug/devel/setup.sh
