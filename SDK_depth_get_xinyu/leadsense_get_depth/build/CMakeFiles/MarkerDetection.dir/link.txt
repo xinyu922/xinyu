@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMarkerDetection.a  CMakeFiles/MarkerDetection.dir/MarkerDetection.cpp.o
+/usr/bin/ranlib libMarkerDetection.a

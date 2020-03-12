@@ -1,0 +1,23 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x00)
+
+[CMake]
+Build Directory Count=1
+Current Build Directory Index=0
+ProjectRootRelative=
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=file:///home/bdi048/SDK_dir/MYNT-EYE-S-SDK/samples/api/build
+Build Type=Debug
+CMake Binary=file:///usr/local/lib/python3.5/dist-packages/cmake/data/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=file:///usr/local
+
+[Defines And Includes][Compiler]
+Name=GCC
+Path=gcc
+Type=GCC
+
+[Project]
+VersionControlSupport=kdevgit

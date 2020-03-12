@@ -22,7 +22,7 @@ message(${ZED_LIBRARIES})
 add_library(markerDetection src/MarkerDetection.cpp)
 target_link_libraries(markerDetection ${OpenCV_LIBRARIES})
 
-add_executable(zed_get_depth src/zed_get_depth.cpp)
+add_executable(zed_get_depth src/zed_get_depth_xyz.cpp)
 target_link_libraries(zed_get_depth ${ZED_LIBRARIES}
     ${OpenCV_LIBRARIES}
     ${CUDA_CUDA_LIBRARY}

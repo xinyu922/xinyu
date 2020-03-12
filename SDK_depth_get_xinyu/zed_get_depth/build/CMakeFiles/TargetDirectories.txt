@@ -1,0 +1,4 @@
+/home/bdi048/ws/SDK_depth_get_xinyu/zed_get_depth/build/CMakeFiles/edit_cache.dir
+/home/bdi048/ws/SDK_depth_get_xinyu/zed_get_depth/build/CMakeFiles/rebuild_cache.dir
+/home/bdi048/ws/SDK_depth_get_xinyu/zed_get_depth/build/CMakeFiles/zed_get_depth.dir
+/home/bdi048/ws/SDK_depth_get_xinyu/zed_get_depth/build/CMakeFiles/markerDetection.dir

@@ -62,7 +62,6 @@ int main(int argc, char *argv[]) {
     auto &&left_data = api->GetStreamData(Stream::LEFT);
     auto &&depth_data = api->GetStreamData(Stream::DEPTH);
 
-
     if (!left_data.frame.empty() && !depth_data.frame.empty()) 
     {
       cv::Mat img=left_data.frame;
@@ -77,34 +76,36 @@ int main(int argc, char *argv[]) {
       {
           cv::imshow("frame",img);
           cv::waitKey(1);
-          char key = static_cast<char>(cv::waitKey(1));
-          if (key == 27 || key == 'q' || key == 'Q') {  // ESC/Q
-            break;
-          }
-          continue;
+          // char key = static_cast<char>(cv::waitKey(1));
+          // if (key == 27 || key == 'q' || key == 'Q') {  // ESC/Q
+          //   break;
+          // }
+          // continue;
       }
+      else
+      {
+        cv::circle(img, cv::Point(x, y), 3, cv::Scalar(0, 255, 0), 3);
+      
+        float distance = static_cast<float>(depth_data.frame.at<ushort>(cv::Point(x, y)));
+        // float distance = depth_data.frame.at<ushort>(cv::Point(x, y));
+        if (distance >= 10000 || distance == 0)
+           continue;
+        string str_distance = to_string(distance/1000);
+        cv::putText(img, str_distance+'m', cv::Point(100,100), cv::FONT_HERSHEY_PLAIN, 3, cv::Scalar(0, 0, 255), 3);
+        cv::imshow("frame",img);
+        cv::waitKey(1);
         
-      cv::circle(img, cv::Point(x, y), 3, cv::Scalar(0, 255, 0), 3);
-      
-      
-      float distance = static_cast<float>(depth_data.frame.at<ushort>(cv::Point(x, y)));
-    //float distance = depth_data.frame.at<ushort>(cv::Point(x, y));
-      if (distance >= 10000 || distance == 0)
-         continue;
-      string str_distance = to_string(distance/1000);
-      cv::putText(img, str_distance+'m', cv::Point(100,100), cv::FONT_HERSHEY_PLAIN, 3, cv::Scalar(0, 0, 255), 3);
-      cv::imshow("frame",img);
-      cv::waitKey(1);
-      
-      double now = std::chrono::duration_cast<std::chrono::milliseconds>(std::chrono::system_clock::now().time_since_epoch()).count();
-      outfile << std::setprecision(20) << now << "," << x << "," << y << "," <<distance/1000 << std::endl;
+        double now = std::chrono::duration_cast<std::chrono::milliseconds>(std::chrono::system_clock::now().time_since_epoch()).count();
+        now = now / 1000;
+        outfile << std::setprecision(20) << now << "," << x << "," << y << "," << distance/1000 << std::endl;
+      } 
 
     }
 
-    char key = static_cast<char>(cv::waitKey(1));
-    if (key == 27 || key == 'q' || key == 'Q') {  // ESC/Q
-      break;
-    }
+    // char key = static_cast<char>(cv::waitKey(1));
+    // if (key == 27 || key == 'q' || key == 'Q') {  // ESC/Q
+    //   break;
+    // }
   }
 
   api->Stop(Source::VIDEO_STREAMING);
