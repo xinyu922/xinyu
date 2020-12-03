@@ -7,18 +7,18 @@ from sensor_msgs.msg import Image
 from cv_bridge import CvBridge, CvBridgeError
 import cv2
 import curses
+import os
 
 count = 0
- 
-cam_path  = '/home/husky/Desktop/usb_cam/'    # 已经建立好的存储cam0 文件的目录
-# cam1_path  = '/home/hltt3838/my_c++/VINS_test/BUAA_robot/cam1/'
 
+cam_path  = 'pictures/'    #  创建存储图像文件的目录
+if not os.path.exists(cam_path):
+    os.makedirs(cam_path)
  
 def callback(data):
     # define picture to_down' coefficient of ratio
     scaling_factor = 0.5
     global count,bridge
-    
 
     cv_img = bridge.imgmsg_to_cv2(data, "bgr8")
     timestr = "%.6f" %  data.header.stamp.to_sec()
